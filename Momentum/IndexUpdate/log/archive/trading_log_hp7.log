@@ -1,0 +1,1601 @@
+S&P 500 Index Update Trading Strategy Analysis
+Holding Period: 7 trading days
+Date Range: 2015-07-02 to 2025-07-18
+Timestamp: 2025-08-23 19:56:24
+============================================================
+
+1/223: 2015-07-02: Added=KHC, Removed=KRFT
+  Holding Period End Date: 2015-07-14
+  ✓ S1: KHC 6.91%, Portfolio: $1,069,079
+    YFinance output for KRFT: 1 Failed download:
+['KRFT']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-07-02 00:00:00 -> 2015-07-15)')
+    Warning: No data found for KRFT
+  ✗ S2: Insufficient data for KHC/KRFT
+
+2/223: 2015-07-06: Added=AAP, Removed=FDO
+  Holding Period End Date: 2015-07-15
+  ✓ S1: AAP 3.09%, Portfolio: $1,102,116
+    YFinance output for FDO: 1 Failed download:
+['FDO']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-07-06 00:00:00 -> 2015-07-16)')
+    Warning: No data found for FDO
+  ✗ S2: Insufficient data for AAP/FDO
+
+3/223: 2015-07-14: Added=PYPL, Removed=NE
+  Holding Period End Date: 2015-07-23
+  ✓ S1: PYPL 0.22%, Portfolio: $1,104,503
+    YFinance output for NE: 1 Failed download:
+['NE']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-07-14 00:00:00 -> 2015-07-24) (Yahoo error = "Data doesn\'t exist for startDate = 1436846400, endDate = 1437710400")')
+    Warning: No data found for NE
+  ✗ S2: Insufficient data for PYPL/NE
+
+4/223: 2015-07-24: Added=SIG, Removed=DTV
+  Holding Period End Date: 2015-08-04
+  ✓ S1: SIG 0.59%, Portfolio: $1,110,981
+    YFinance output for DTV: 1 Failed download:
+['DTV']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DTV
+  ✗ S2: Insufficient data for SIG/DTV
+
+5/223: 2015-08-27: Added=ATVI, Removed=PLL
+  Holding Period End Date: 2015-09-08
+    YFinance output for ATVI: 1 Failed download:
+['ATVI']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ATVI
+  ✗ S1: Insufficient data for ATVI
+    YFinance output for ATVI: 1 Failed download:
+['ATVI']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ATVI
+    YFinance output for PLL: 1 Failed download:
+['PLL']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-08-27 00:00:00 -> 2015-09-09) (Yahoo error = "Data doesn\'t exist for startDate = 1440648000, endDate = 1441771200")')
+    Warning: No data found for PLL
+  ✗ S2: Insufficient data for ATVI/PLL
+
+6/223: 2015-08-27: Added=UAL, Removed=HSP
+  Holding Period End Date: 2015-09-08
+  ✓ S1: UAL 7.78%, Portfolio: $1,197,386
+    YFinance output for HSP: 1 Failed download:
+['HSP']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-08-27 00:00:00 -> 2015-09-09)')
+    Warning: No data found for HSP
+  ✗ S2: Insufficient data for UAL/HSP
+
+7/223: 2015-09-30: Added=VRSK, Removed=JOY
+  Holding Period End Date: 2015-10-09
+  ✓ S1: VRSK 9.77%, Portfolio: $1,314,354
+    YFinance output for JOY: 1 Failed download:
+['JOY']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-09-30 00:00:00 -> 2015-10-12)')
+    Warning: No data found for JOY
+  ✗ S2: Insufficient data for VRSK/JOY
+
+8/223: 2015-10-27: Added=HPE, Removed=HCBK
+  Holding Period End Date: 2015-11-05
+  ✓ S1: HPE -15.58%, Portfolio: $1,109,639
+    YFinance output for HCBK: 1 Failed download:
+['HCBK']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-10-27 00:00:00 -> 2015-11-06)')
+    Warning: No data found for HCBK
+  ✗ S2: Insufficient data for HPE/HCBK
+
+9/223: 2015-11-09: Added=SYF, Removed=GNW
+  Holding Period End Date: 2015-11-18
+  ✓ S1: SYF -2.86%, Portfolio: $1,077,906
+  ✓ S2: Long SYF (-2.86%), Short GNW (0.64%)
+      Combined: -1.11%, Portfolio: $988,879
+
+10/223: 2015-11-12: Added=ILMN, Removed=SIAL
+  Holding Period End Date: 2015-11-23
+  ✓ S1: ILMN 12.38%, Portfolio: $1,211,300
+    YFinance output for SIAL: 1 Failed download:
+['SIAL']: YFPricesMissingError('possibly delisted; no price data found  (1d 2015-11-12 00:00:00 -> 2015-11-24)')
+    Warning: No data found for SIAL
+  ✗ S2: Insufficient data for ILMN/SIAL
+
+11/223: 2015-11-23: Added=CSRA, Removed=CSC
+  Holding Period End Date: 2015-12-03
+  ✓ S1: CSRA -9.40%, Portfolio: $1,097,449
+  ✓ S2: Long CSRA (-9.40%), Short CSC (0.00%)
+      Combined: -4.70%, Portfolio: $942,406
+
+12/223: 2015-12-15: Added=nan, Removed=CMCSK
+  Holding Period End Date: 2015-12-24
+
+13/223: 2015-12-22: Added=CHD, Removed=ALTR
+  Holding Period End Date: 2016-01-04
+  ✓ S1: CHD -2.13%, Portfolio: $1,074,041
+    YFinance output for ALTR: 1 Failed download:
+['ALTR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ALTR
+  ✗ S2: Insufficient data for CHD/ALTR
+
+14/223: 2015-12-28: Added=WLTW, Removed=FOSL
+  Holding Period End Date: 2016-01-07
+    YFinance output for WLTW: 1 Failed download:
+['WLTW']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for WLTW
+  ✗ S1: Insufficient data for WLTW
+    YFinance output for WLTW: 1 Failed download:
+['WLTW']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for WLTW
+  ✗ S2: Insufficient data for WLTW/FOSL
+
+15/223: 2016-01-13: Added=EXR, Removed=ACE
+  Holding Period End Date: 2016-01-25
+  ✓ S1: EXR -2.18%, Portfolio: $1,050,653
+    YFinance output for ACE: 1 Failed download:
+['ACE']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-01-13 00:00:00 -> 2016-01-26) (Yahoo error = "Data doesn\'t exist for startDate = 1452661200, endDate = 1453784400")')
+    Warning: No data found for ACE
+  ✗ S2: Insufficient data for EXR/ACE
+
+16/223: 2016-01-22: Added=FRT, Removed=BRCM
+  Holding Period End Date: 2016-02-02
+  ✓ S1: FRT 0.08%, Portfolio: $1,051,492
+    YFinance output for BRCM: 1 Failed download:
+['BRCM']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-01-22 00:00:00 -> 2016-02-03)')
+    Warning: No data found for BRCM
+  ✗ S2: Insufficient data for FRT/BRCM
+
+17/223: 2016-01-26: Added=CFG, Removed=PCP
+  Holding Period End Date: 2016-02-04
+  ✓ S1: CFG 0.19%, Portfolio: $1,053,452
+    YFinance output for PCP: 1 Failed download:
+['PCP']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-01-26 00:00:00 -> 2016-02-05) (Yahoo error = "Data doesn\'t exist for startDate = 1453784400, endDate = 1454648400")')
+    Warning: No data found for PCP
+  ✗ S2: Insufficient data for CFG/PCP
+
+18/223: 2016-02-16: Added=CXO, Removed=PCL
+  Holding Period End Date: 2016-02-25
+    YFinance output for CXO: 1 Failed download:
+['CXO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CXO
+  ✗ S1: Insufficient data for CXO
+    YFinance output for CXO: 1 Failed download:
+['CXO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CXO
+    YFinance output for PCL: 1 Failed download:
+['PCL']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-02-16 00:00:00 -> 2016-02-26) (Yahoo error = "Data doesn\'t exist for startDate = 1455598800, endDate = 1456462800")')
+    Warning: No data found for PCL
+  ✗ S2: Insufficient data for CXO/PCL
+
+19/223: 2016-03-01: Added=AWK, Removed=CNX
+  Holding Period End Date: 2016-03-10
+  ✓ S1: AWK 4.49%, Portfolio: $1,100,720
+  ✓ S2: Long AWK (4.49%), Short CNX (-18.39%)
+      Combined: -6.95%, Portfolio: $876,871
+
+20/223: 2016-03-04: Added=UDR, Removed=GMCR
+  Holding Period End Date: 2016-03-15
+  ✓ S1: UDR 6.62%, Portfolio: $1,173,553
+    YFinance output for GMCR: 1 Failed download:
+['GMCR']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-03-04 00:00:00 -> 2016-03-16)')
+    Warning: No data found for GMCR
+  ✗ S2: Insufficient data for UDR/GMCR
+
+21/223: 2016-03-24: Added=CNC, Removed=ESV
+  Holding Period End Date: 2016-04-05
+  ✓ S1: CNC -4.91%, Portfolio: $1,115,943
+    YFinance output for ESV: 1 Failed download:
+['ESV']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ESV
+  ✗ S2: Insufficient data for CNC/ESV
+
+22/223: 2016-03-24: Added=HOLX, Removed=POM
+  Holding Period End Date: 2016-04-05
+  ✓ S1: HOLX 1.25%, Portfolio: $1,129,912
+    YFinance output for POM: 1 Failed download:
+['POM']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-03-24 00:00:00 -> 2016-04-06)')
+    Warning: No data found for POM
+  ✗ S2: Insufficient data for HOLX/POM
+
+23/223: 2016-03-28: Added=FL, Removed=CAM
+  Holding Period End Date: 2016-04-06
+  ✓ S1: FL -2.98%, Portfolio: $1,096,292
+    YFinance output for CAM: 1 Failed download:
+['CAM']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-03-28 00:00:00 -> 2016-04-07)')
+    Warning: No data found for CAM
+  ✗ S2: Insufficient data for FL/CAM
+
+24/223: 2016-04-07: Added=ULTA, Removed=THC
+  Holding Period End Date: 2016-04-18
+  ✓ S1: ULTA 6.59%, Portfolio: $1,168,524
+  ✓ S2: Long ULTA (6.59%), Short THC (-10.48%)
+      Combined: -1.95%, Portfolio: $859,810
+
+25/223: 2016-04-19: Added=GPN, Removed=GME
+  Holding Period End Date: 2016-04-28
+  ✓ S1: GPN -4.95%, Portfolio: $1,110,707
+  ✓ S2: Long GPN (-4.95%), Short GME (-1.37%)
+      Combined: -3.16%, Portfolio: $832,659
+
+26/223: 2016-04-26: Added=AYI, Removed=ADT
+  Holding Period End Date: 2016-05-05
+  ✓ S1: AYI -4.89%, Portfolio: $1,056,445
+    YFinance output for ADT: 1 Failed download:
+['ADT']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-04-26 00:00:00 -> 2016-05-06) (Yahoo error = "Data doesn\'t exist for startDate = 1461643200, endDate = 1462507200")')
+    Warning: No data found for ADT
+  ✗ S2: Insufficient data for AYI/ADT
+
+27/223: 2016-05-10: Added=ALK, Removed=SNDK
+  Holding Period End Date: 2016-05-19
+  ✓ S1: ALK -5.68%, Portfolio: $996,408
+    YFinance output for SNDK: 1 Failed download:
+['SNDK']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-05-10 00:00:00 -> 2016-05-20) (Yahoo error = "Data doesn\'t exist for startDate = 1462852800, endDate = 1463716800")')
+    Warning: No data found for SNDK
+  ✗ S2: Insufficient data for ALK/SNDK
+
+28/223: 2016-05-13: Added=DLR, Removed=TWC
+  Holding Period End Date: 2016-05-24
+  ✓ S1: DLR -0.24%, Portfolio: $993,980
+    YFinance output for TWC: 1 Failed download:
+['TWC']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-05-13 00:00:00 -> 2016-05-25)')
+    Warning: No data found for TWC
+  ✗ S2: Insufficient data for DLR/TWC
+
+29/223: 2016-05-18: Added=LKQ, Removed=ARG
+  Holding Period End Date: 2016-05-27
+  ✓ S1: LKQ 3.75%, Portfolio: $1,031,266
+    YFinance output for ARG: 1 Failed download:
+['ARG']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-05-18 00:00:00 -> 2016-05-31) (Yahoo error = "Data doesn\'t exist for startDate = 1463544000, endDate = 1464667200")')
+    Warning: No data found for ARG
+  ✗ S2: Insufficient data for LKQ/ARG
+
+30/223: 2016-05-24: Added=AJG, Removed=CCE
+  Holding Period End Date: 2016-06-03
+  ✓ S1: AJG 0.23%, Portfolio: $1,033,607
+    YFinance output for CCE: 1 Failed download:
+['CCE']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-05-24 00:00:00 -> 2016-06-06)')
+    Warning: No data found for CCE
+  ✗ S2: Insufficient data for AJG/CCE
+
+31/223: 2016-05-27: Added=TDG, Removed=BXLT
+  Holding Period End Date: 2016-06-08
+  ✓ S1: TDG 3.52%, Portfolio: $1,069,990
+    YFinance output for BXLT: 1 Failed download:
+['BXLT']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-05-27 00:00:00 -> 2016-06-09)')
+    Warning: No data found for BXLT
+  ✗ S2: Insufficient data for TDG/BXLT
+
+32/223: 2016-06-21: Added=FBHS, Removed=CVC
+  Holding Period End Date: 2016-06-30
+    YFinance output for FBHS: 1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FBHS
+  ✗ S1: Insufficient data for FBHS
+    YFinance output for FBHS: 1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FBHS
+    YFinance output for CVC: 1 Failed download:
+['CVC']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-06-21 00:00:00 -> 2016-07-01)')
+    Warning: No data found for CVC
+  ✗ S2: Insufficient data for FBHS/CVC
+
+33/223: 2016-06-23: Added=FTV, Removed=CPGX
+  Holding Period End Date: 2016-07-05
+  ✗ S1: Insufficient data for FTV
+    YFinance output for CPGX: 1 Failed download:
+['CPGX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-06-23 00:00:00 -> 2016-07-06)')
+    Warning: No data found for CPGX
+  ✗ S2: Insufficient data for FTV/CPGX
+
+34/223: 2016-06-23: Added=ALB, Removed=TE
+  Holding Period End Date: 2016-07-05
+  ✓ S1: ALB -5.33%, Portfolio: $1,012,941
+    YFinance output for TE: 1 Failed download:
+['TE']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-06-23 00:00:00 -> 2016-07-06) (Yahoo error = "Data doesn\'t exist for startDate = 1466654400, endDate = 1467777600")')
+    Warning: No data found for TE
+  ✗ S2: Insufficient data for ALB/TE
+
+35/223: 2016-06-29: Added=LNT, Removed=GAS
+  Holding Period End Date: 2016-07-11
+  ✓ S1: LNT 1.61%, Portfolio: $1,029,221
+  ✓ S2: Long LNT (1.61%), Short GAS (-3.12%)
+      Combined: -0.76%, Portfolio: $826,340
+
+36/223: 2016-08-25: Added=MTD, Removed=TYC
+  Holding Period End Date: 2016-09-06
+  ✓ S1: MTD -0.05%, Portfolio: $1,028,688
+    YFinance output for TYC: 1 Failed download:
+['TYC']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-08-25 00:00:00 -> 2016-09-07)')
+    Warning: No data found for TYC
+  ✗ S2: Insufficient data for MTD/TYC
+
+37/223: 2016-08-31: Added=CHTR, Removed=EMC
+  Holding Period End Date: 2016-09-12
+  ✓ S1: CHTR 4.70%, Portfolio: $1,077,080
+    YFinance output for EMC: 1 Failed download:
+['EMC']: YFPricesMissingError('possibly delisted; no price data found  (1d 2016-08-31 00:00:00 -> 2016-09-13) (Yahoo error = "Data doesn\'t exist for startDate = 1472616000, endDate = 1473739200")')
+    Warning: No data found for EMC
+  ✗ S2: Insufficient data for CHTR/EMC
+
+38/223: 2016-09-10: Added=COO, Removed=HOT
+  Holding Period End Date: 2016-09-21
+  ✓ S1: COO -0.30%, Portfolio: $1,073,850
+  ✓ S2: Long COO (-0.30%), Short HOT (-2.75%)
+      Combined: -1.53%, Portfolio: $813,719
+
+39/223: 2016-09-27: Added=COTY, Removed=DO
+  Holding Period End Date: 2016-10-06
+  ✓ S1: COTY 5.59%, Portfolio: $1,133,839
+    YFinance output for DO: 1 Failed download:
+['DO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DO
+  ✗ S2: Insufficient data for COTY/DO
+
+40/223: 2016-11-29: Added=MAA, Removed=OI
+  Holding Period End Date: 2016-12-08
+  ✓ S1: MAA -1.79%, Portfolio: $1,113,534
+  ✓ S2: Long MAA (-1.79%), Short OI (-2.37%)
+      Combined: -2.08%, Portfolio: $796,777
+
+41/223: 2016-11-29: Added=EVHC, Removed=LM
+  Holding Period End Date: 2016-12-08
+  ✓ S1: EVHC 4.20%, Portfolio: $1,160,303
+    YFinance output for LM: 1 Failed download:
+['LM']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for LM
+  ✗ S2: Insufficient data for EVHC/LM
+
+42/223: 2017-01-03: Added=IDXX, Removed=STJ
+  Holding Period End Date: 2017-01-12
+  ✓ S1: IDXX 2.59%, Portfolio: $1,190,297
+    YFinance output for STJ: 1 Failed download:
+['STJ']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-01-03 00:00:00 -> 2017-01-13)')
+    Warning: No data found for STJ
+  ✗ S2: Insufficient data for IDXX/STJ
+
+43/223: 2017-02-23: Added=INCY, Removed=SE
+  Holding Period End Date: 2017-03-06
+  ✓ S1: INCY 10.19%, Portfolio: $1,311,621
+    YFinance output for SE: 1 Failed download:
+['SE']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-02-23 00:00:00 -> 2017-03-07) (Yahoo error = "Data doesn\'t exist for startDate = 1487826000, endDate = 1488862800")')
+    Warning: No data found for SE
+  ✗ S2: Insufficient data for INCY/SE
+
+44/223: 2017-02-23: Added=CBOE, Removed=PBI
+  Holding Period End Date: 2017-03-06
+  ✓ S1: CBOE -2.52%, Portfolio: $1,278,619
+  ✓ S2: Long CBOE (-2.52%), Short PBI (2.37%)
+      Combined: -0.07%, Portfolio: $796,203
+
+45/223: 2017-02-23: Added=REG, Removed=ENDP
+  Holding Period End Date: 2017-03-06
+  ✓ S1: REG -6.09%, Portfolio: $1,200,767
+    YFinance output for ENDP: 1 Failed download:
+['ENDP']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ENDP
+  ✗ S2: Insufficient data for REG/ENDP
+
+46/223: 2017-03-06: Added=DISH, Removed=LLTC
+  Holding Period End Date: 2017-03-15
+    YFinance output for DISH: 1 Failed download:
+['DISH']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DISH
+  ✗ S1: Insufficient data for DISH
+    YFinance output for DISH: 1 Failed download:
+['DISH']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DISH
+    YFinance output for LLTC: 1 Failed download:
+['LLTC']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-03-06 00:00:00 -> 2017-03-16)')
+    Warning: No data found for LLTC
+  ✗ S2: Insufficient data for DISH/LLTC
+
+47/223: 2017-03-10: Added=ARE, Removed=FSLR
+  Holding Period End Date: 2017-03-21
+  ✓ S1: ARE 1.74%, Portfolio: $1,221,623
+  ✓ S2: Long ARE (1.74%), Short FSLR (11.57%)
+      Combined: 6.65%, Portfolio: $849,179
+
+48/223: 2017-03-10: Added=RJF, Removed=FTR
+  Holding Period End Date: 2017-03-21
+  ✓ S1: RJF -6.80%, Portfolio: $1,138,590
+    YFinance output for FTR: 1 Failed download:
+['FTR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FTR
+  ✗ S2: Insufficient data for RJF/FTR
+
+49/223: 2017-03-10: Added=AMD, Removed=URBN
+  Holding Period End Date: 2017-03-21
+  ✓ S1: AMD -0.65%, Portfolio: $1,131,223
+  ✓ S2: Long AMD (-0.65%), Short URBN (11.47%)
+      Combined: 5.41%, Portfolio: $895,134
+
+50/223: 2017-03-13: Added=SNPS, Removed=HAR
+  Holding Period End Date: 2017-03-22
+  ✓ S1: SNPS -1.41%, Portfolio: $1,115,218
+  ✓ S2: Long SNPS (-1.41%), Short HAR (-6.23%)
+      Combined: -3.82%, Portfolio: $860,907
+
+51/223: 2017-03-28: Added=DXC, Removed=SWN
+  Holding Period End Date: 2017-04-06
+  ✓ S1: DXC 8.12%, Portfolio: $1,205,798
+    YFinance output for SWN: 1 Failed download:
+['SWN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SWN
+  ✗ S2: Insufficient data for DXC/SWN
+
+52/223: 2017-03-29: Added=IT, Removed=DNB
+  Holding Period End Date: 2017-04-07
+  ✓ S1: IT 1.36%, Portfolio: $1,222,230
+    YFinance output for DNB: 1 Failed download:
+['DNB']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-03-29 00:00:00 -> 2017-04-10) (Yahoo error = "Data doesn\'t exist for startDate = 1490760000, endDate = 1491796800")')
+    Warning: No data found for DNB
+  ✗ S2: Insufficient data for IT/DNB
+
+53/223: 2017-05-24: Added=INFO, Removed=TGNA
+  Holding Period End Date: 2017-06-05
+    YFinance output for INFO: 1 Failed download:
+['INFO']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-05-24 00:00:00 -> 2017-06-06) (Yahoo error = "Data doesn\'t exist for startDate = 1495598400, endDate = 1496721600")')
+    Warning: No data found for INFO
+  ✗ S1: Insufficient data for INFO
+    YFinance output for INFO: 1 Failed download:
+['INFO']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-05-24 00:00:00 -> 2017-06-06) (Yahoo error = "Data doesn\'t exist for startDate = 1495598400, endDate = 1496721600")')
+    Warning: No data found for INFO
+  ✗ S2: Insufficient data for INFO/TGNA
+
+54/223: 2017-06-09: Added=ANSS, Removed=R
+  Holding Period End Date: 2017-06-20
+  ✓ S1: ANSS -2.88%, Portfolio: $1,186,993
+  ✓ S2: Long ANSS (-2.88%), Short R (-2.91%)
+      Combined: -2.90%, Portfolio: $835,979
+
+55/223: 2017-06-09: Added=ALGN, Removed=TDC
+  Holding Period End Date: 2017-06-20
+  ✓ S1: ALGN -1.25%, Portfolio: $1,172,160
+  ✓ S2: Long ALGN (-1.25%), Short TDC (-1.83%)
+      Combined: -1.54%, Portfolio: $823,116
+
+56/223: 2017-06-09: Added=HLT, Removed=YHOO
+  Holding Period End Date: 2017-06-20
+  ✓ S1: HLT 1.75%, Portfolio: $1,192,616
+    YFinance output for YHOO: 1 Failed download:
+['YHOO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for YHOO
+  ✗ S2: Insufficient data for HLT/YHOO
+
+57/223: 2017-06-12: Added=RE, Removed=MJN
+  Holding Period End Date: 2017-06-21
+    YFinance output for RE: 1 Failed download:
+['RE']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for RE
+  ✗ S1: Insufficient data for RE
+    YFinance output for RE: 1 Failed download:
+['RE']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for RE
+    YFinance output for MJN: 1 Failed download:
+['MJN']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-06-12 00:00:00 -> 2017-06-22)')
+    Warning: No data found for MJN
+  ✗ S2: Insufficient data for RE/MJN
+
+58/223: 2017-06-30: Added=BKR, Removed=BHI
+  Holding Period End Date: 2017-07-12
+  ✓ S1: BKR -1.58%, Portfolio: $1,173,716
+    YFinance output for BHI: 1 Failed download:
+['BHI']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-06-30 00:00:00 -> 2017-07-13) (Yahoo error = "Data doesn\'t exist for startDate = 1498795200, endDate = 1499918400")')
+    Warning: No data found for BHI
+  ✗ S2: Insufficient data for BKR/BHI
+
+59/223: 2017-07-19: Added=MGM, Removed=RAI
+  Holding Period End Date: 2017-07-28
+  ✓ S1: MGM 1.07%, Portfolio: $1,186,244
+    YFinance output for RAI: 1 Failed download:
+['RAI']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-07-19 00:00:00 -> 2017-07-31)')
+    Warning: No data found for RAI
+  ✗ S2: Insufficient data for MGM/RAI
+
+60/223: 2017-07-19: Added=RMD, Removed=MNK
+  Holding Period End Date: 2017-07-28
+  ✓ S1: RMD -0.86%, Portfolio: $1,176,062
+    YFinance output for MNK: 1 Failed download:
+['MNK']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MNK
+  ✗ S2: Insufficient data for RMD/MNK
+
+61/223: 2017-07-19: Added=PKG, Removed=MUR
+  Holding Period End Date: 2017-07-28
+  ✓ S1: PKG -2.24%, Portfolio: $1,149,771
+  ✓ S2: Long PKG (-2.24%), Short MUR (-2.98%)
+      Combined: -2.61%, Portfolio: $801,633
+
+62/223: 2017-07-19: Added=AOS, Removed=BBBY
+  Holding Period End Date: 2017-07-28
+  ✓ S1: AOS -5.47%, Portfolio: $1,086,883
+    YFinance output for BBBY: 1 Failed download:
+['BBBY']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for BBBY
+  ✗ S2: Insufficient data for AOS/BBBY
+
+63/223: 2017-07-19: Added=DRE, Removed=RIG
+  Holding Period End Date: 2017-07-28
+    YFinance output for DRE: 1 Failed download:
+['DRE']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DRE
+  ✗ S1: Insufficient data for DRE
+    YFinance output for DRE: 1 Failed download:
+['DRE']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DRE
+  ✗ S2: Insufficient data for DRE/RIG
+
+64/223: 2017-07-31: Added=BHF, Removed=AN
+  Holding Period End Date: 2017-08-09
+  ✓ S1: BHF -14.06%, Portfolio: $934,061
+  ✓ S2: Long BHF (-14.06%), Short AN (3.92%)
+      Combined: -5.07%, Portfolio: $761,002
+
+65/223: 2017-08-24: Added=Q, Removed=WFM
+  Holding Period End Date: 2017-09-05
+    YFinance output for Q: 1 Failed download:
+['Q']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-08-24 00:00:00 -> 2017-09-06)')
+    Warning: No data found for Q
+  ✗ S1: Insufficient data for Q
+    YFinance output for Q: 1 Failed download:
+['Q']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-08-24 00:00:00 -> 2017-09-06)')
+    Warning: No data found for Q
+    YFinance output for WFM: 1 Failed download:
+['WFM']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-08-24 00:00:00 -> 2017-09-06)')
+    Warning: No data found for WFM
+  ✗ S2: Insufficient data for Q/WFM
+
+66/223: 2017-08-24: Added=SBAC, Removed=DD
+  Holding Period End Date: 2017-09-05
+  ✓ S1: SBAC 2.08%, Portfolio: $953,489
+  ✓ S2: Long SBAC (2.08%), Short DD (-0.97%)
+      Combined: 0.56%, Portfolio: $765,227
+
+67/223: 2017-08-24: Added=DWDP, Removed=DOW
+  Holding Period End Date: 2017-09-05
+    YFinance output for DWDP: 1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DWDP
+  ✗ S1: Insufficient data for DWDP
+    YFinance output for DWDP: 1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DWDP
+    YFinance output for DOW: 1 Failed download:
+['DOW']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-08-24 00:00:00 -> 2017-09-06) (Yahoo error = "Data doesn\'t exist for startDate = 1503547200, endDate = 1504670400")')
+    Warning: No data found for DOW
+  ✗ S2: Insufficient data for DWDP/DOW
+
+68/223: 2017-08-24: Added=CDNS, Removed=SPLS
+  Holding Period End Date: 2017-09-05
+  ✓ S1: CDNS 2.85%, Portfolio: $980,673
+    YFinance output for SPLS: 1 Failed download:
+['SPLS']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-08-24 00:00:00 -> 2017-09-06)')
+    Warning: No data found for SPLS
+  ✗ S2: Insufficient data for CDNS/SPLS
+
+69/223: 2017-10-04: Added=NCLH, Removed=LVLT
+  Holding Period End Date: 2017-10-13
+  ✓ S1: NCLH 4.93%, Portfolio: $1,029,023
+    YFinance output for LVLT: 1 Failed download:
+['LVLT']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-10-04 00:00:00 -> 2017-10-16)')
+    Warning: No data found for LVLT
+  ✗ S2: Insufficient data for NCLH/LVLT
+
+70/223: 2017-12-28: Added=HII, Removed=BCR
+  Holding Period End Date: 2018-01-09
+  ✓ S1: HII -0.10%, Portfolio: $1,027,949
+    YFinance output for BCR: 1 Failed download:
+['BCR']: YFPricesMissingError('possibly delisted; no price data found  (1d 2017-12-28 00:00:00 -> 2018-01-10)')
+    Warning: No data found for BCR
+  ✗ S2: Insufficient data for HII/BCR
+
+71/223: 2018-03-02: Added=IPGP, Removed=SNI
+  Holding Period End Date: 2018-03-13
+  ✓ S1: IPGP 4.39%, Portfolio: $1,073,089
+    YFinance output for SNI: 1 Failed download:
+['SNI']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-03-02 00:00:00 -> 2018-03-14)')
+    Warning: No data found for SNI
+  ✗ S2: Insufficient data for IPGP/SNI
+
+72/223: 2018-03-09: Added=TTWO, Removed=SIG
+  Holding Period End Date: 2018-03-20
+  ✓ S1: TTWO -9.75%, Portfolio: $968,458
+  ✓ S2: Long TTWO (-9.75%), Short SIG (27.78%)
+      Combined: 9.01%, Portfolio: $834,196
+
+73/223: 2018-03-09: Added=NKTR, Removed=CHK
+  Holding Period End Date: 2018-03-20
+  ✓ S1: NKTR -1.05%, Portfolio: $958,268
+    YFinance output for CHK: 1 Failed download:
+['CHK']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CHK
+  ✗ S2: Insufficient data for NKTR/CHK
+
+74/223: 2018-03-09: Added=SIVB, Removed=PDCO
+  Holding Period End Date: 2018-03-20
+    YFinance output for SIVB: 1 Failed download:
+['SIVB']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SIVB
+  ✗ S1: Insufficient data for SIVB
+    YFinance output for SIVB: 1 Failed download:
+['SIVB']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SIVB
+    YFinance output for PDCO: 1 Failed download:
+['PDCO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for PDCO
+  ✗ S2: Insufficient data for SIVB/PDCO
+
+75/223: 2018-03-28: Added=MSCI, Removed=CSRA
+  Holding Period End Date: 2018-04-09
+  ✓ S1: MSCI -2.60%, Portfolio: $933,316
+  ✓ S2: Long MSCI (-2.60%), Short CSRA (0.00%)
+      Combined: -1.30%, Portfolio: $823,336
+
+76/223: 2018-05-25: Added=ABMD, Removed=WYN
+  Holding Period End Date: 2018-06-06
+    YFinance output for ABMD: 1 Failed download:
+['ABMD']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ABMD
+  ✗ S1: Insufficient data for ABMD
+    YFinance output for ABMD: 1 Failed download:
+['ABMD']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ABMD
+    YFinance output for WYN: 1 Failed download:
+['WYN']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-05-25 00:00:00 -> 2018-06-07)')
+    Warning: No data found for WYN
+  ✗ S2: Insufficient data for ABMD/WYN
+
+77/223: 2018-05-31: Added=EVRG, Removed=NAVI
+  Holding Period End Date: 2018-06-11
+  ✓ S1: EVRG -9.05%, Portfolio: $848,874
+  ✓ S2: Long EVRG (-9.05%), Short NAVI (-5.28%)
+      Combined: -7.16%, Portfolio: $764,349
+
+78/223: 2018-06-04: Added=TWTR, Removed=MON
+  Holding Period End Date: 2018-06-13
+    YFinance output for TWTR: 1 Failed download:
+['TWTR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for TWTR
+  ✗ S1: Insufficient data for TWTR
+    YFinance output for TWTR: 1 Failed download:
+['TWTR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for TWTR
+    YFinance output for MON: 1 Failed download:
+['MON']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MON
+  ✗ S2: Insufficient data for TWTR/MON
+
+79/223: 2018-06-08: Added=HFC, Removed=AYI
+  Holding Period End Date: 2018-06-19
+    YFinance output for HFC: 1 Failed download:
+['HFC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for HFC
+  ✗ S1: Insufficient data for HFC
+    YFinance output for HFC: 1 Failed download:
+['HFC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for HFC
+  ✗ S2: Insufficient data for HFC/AYI
+
+80/223: 2018-06-08: Added=BR, Removed=RRC
+  Holding Period End Date: 2018-06-19
+  ✓ S1: BR -2.41%, Portfolio: $828,451
+  ✓ S2: Long BR (-2.41%), Short RRC (-3.49%)
+      Combined: -2.95%, Portfolio: $741,833
+
+81/223: 2018-06-15: Added=FLT, Removed=TWX
+  Holding Period End Date: 2018-06-26
+    YFinance output for FLT: 1 Failed download:
+['FLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FLT
+  ✗ S1: Insufficient data for FLT
+    YFinance output for FLT: 1 Failed download:
+['FLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FLT
+  ✗ S2: Insufficient data for FLT/TWX
+
+82/223: 2018-06-25: Added=CPRT, Removed=DPS
+  Holding Period End Date: 2018-07-05
+  ✓ S1: CPRT -1.96%, Portfolio: $812,252
+    YFinance output for DPS: 1 Failed download:
+['DPS']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-06-25 00:00:00 -> 2018-07-06)')
+    Warning: No data found for DPS
+  ✗ S2: Insufficient data for CPRT/DPS
+
+83/223: 2018-08-23: Added=ANET, Removed=GGP
+  Holding Period End Date: 2018-09-04
+  ✓ S1: ANET 2.55%, Portfolio: $832,974
+    YFinance output for GGP: 1 Failed download:
+['GGP']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-08-23 00:00:00 -> 2018-09-05)')
+    Warning: No data found for GGP
+  ✗ S2: Insufficient data for ANET/GGP
+
+84/223: 2018-09-11: Added=WCG, Removed=XL
+  Holding Period End Date: 2018-09-20
+    YFinance output for WCG: 1 Failed download:
+['WCG']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for WCG
+  ✗ S1: Insufficient data for WCG
+    YFinance output for WCG: 1 Failed download:
+['WCG']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for WCG
+    YFinance output for XL: 1 Failed download:
+['XL']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for XL
+  ✗ S2: Insufficient data for WCG/XL
+
+85/223: 2018-09-25: Added=ROL, Removed=ANDV
+  Holding Period End Date: 2018-10-04
+  ✓ S1: ROL -5.49%, Portfolio: $787,246
+  ✓ S2: Long ROL (-5.49%), Short ANDV (2.47%)
+      Combined: -1.51%, Portfolio: $730,628
+
+86/223: 2018-10-04: Added=FTNT, Removed=EVHC
+  Holding Period End Date: 2018-10-15
+  ✓ S1: FTNT -10.24%, Portfolio: $706,661
+  ✓ S2: Long FTNT (-10.24%), Short EVHC (-0.13%)
+      Combined: -5.18%, Portfolio: $692,757
+
+87/223: 2018-10-30: Added=KEYS, Removed=CA
+  Holding Period End Date: 2018-11-08
+  ✓ S1: KEYS 6.44%, Portfolio: $752,180
+    YFinance output for CA: 1 Failed download:
+['CA']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-10-30 00:00:00 -> 2018-11-09) (Yahoo error = "Data doesn\'t exist for startDate = 1540872000, endDate = 1541739600")')
+    Warning: No data found for CA
+  ✗ S2: Insufficient data for KEYS/CA
+
+88/223: 2018-11-07: Added=JKHY, Removed=EQT
+  Holding Period End Date: 2018-11-16
+  ✓ S1: JKHY -5.26%, Portfolio: $712,584
+  ✓ S2: Long JKHY (-5.26%), Short EQT (11.85%)
+      Combined: 3.29%, Portfolio: $715,576
+
+89/223: 2018-11-26: Added=FANG, Removed=SRCL
+  Holding Period End Date: 2018-12-06
+  ✓ S1: FANG -6.85%, Portfolio: $663,757
+    YFinance output for SRCL: 1 Failed download:
+['SRCL']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SRCL
+  ✗ S2: Insufficient data for FANG/SRCL
+
+90/223: 2018-11-26: Added=MXIM, Removed=AET
+  Holding Period End Date: 2018-12-06
+    YFinance output for MXIM: 1 Failed download:
+['MXIM']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MXIM
+  ✗ S1: Insufficient data for MXIM
+    YFinance output for MXIM: 1 Failed download:
+['MXIM']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MXIM
+  ✗ S2: Insufficient data for MXIM/AET
+
+91/223: 2018-11-26: Added=LW, Removed=COL
+  Holding Period End Date: 2018-12-06
+  ✓ S1: LW -7.76%, Portfolio: $612,222
+  ✓ S2: Long LW (-7.76%), Short COL (12.50%)
+      Combined: 2.37%, Portfolio: $732,520
+
+92/223: 2018-12-27: Added=CE, Removed=ESRX
+  Holding Period End Date: 2019-01-08
+  ✓ S1: CE 4.45%, Portfolio: $639,479
+    YFinance output for ESRX: 1 Failed download:
+['ESRX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-12-27 00:00:00 -> 2019-01-09)')
+    Warning: No data found for ESRX
+  ✗ S2: Insufficient data for CE/ESRX
+
+93/223: 2018-12-27: Added=FRC, Removed=SCG
+  Holding Period End Date: 2019-01-08
+    YFinance output for FRC: 1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FRC
+  ✗ S1: Insufficient data for FRC
+    YFinance output for FRC: 1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FRC
+  ✗ S2: Insufficient data for FRC/SCG
+
+94/223: 2019-01-15: Added=TFX, Removed=PCG
+  Holding Period End Date: 2019-01-25
+  ✓ S1: TFX 4.97%, Portfolio: $671,240
+  ✓ S2: Long TFX (4.97%), Short PCG (-41.29%)
+      Combined: -18.16%, Portfolio: $599,477
+
+95/223: 2019-02-08: Added=ATO, Removed=NFX
+  Holding Period End Date: 2019-02-20
+  ✓ S1: ATO 0.03%, Portfolio: $671,445
+  ✓ S2: Long ATO (0.03%), Short NFX (-4.51%)
+      Combined: -2.24%, Portfolio: $586,048
+
+96/223: 2019-02-21: Added=WAB, Removed=GT
+  Holding Period End Date: 2019-03-04
+  ✓ S1: WAB 0.08%, Portfolio: $671,993
+  ✓ S2: Long WAB (0.08%), Short GT (-2.74%)
+      Combined: -1.33%, Portfolio: $578,259
+
+97/223: 2019-03-14: Added=FOXA, Removed=FOXA
+  Holding Period End Date: 2019-03-25
+  ✓ S1: FOXA -7.90%, Portfolio: $618,928
+  ✓ S2: Long FOXA (-7.90%), Short FOXA (8.57%)
+      Combined: 0.34%, Portfolio: $580,216
+
+98/223: 2019-03-14: Added=FOX, Removed=FOX
+  Holding Period End Date: 2019-03-25
+  ✓ S1: FOX -8.78%, Portfolio: $564,562
+  ✓ S2: Long FOX (-8.78%), Short FOX (9.63%)
+      Combined: 0.42%, Portfolio: $582,670
+
+99/223: 2019-03-26: Added=DOW, Removed=BHF
+  Holding Period End Date: 2019-04-04
+  ✓ S1: DOW 22.23%, Portfolio: $690,072
+  ✓ S2: Long DOW (22.23%), Short BHF (-3.98%)
+      Combined: 9.13%, Portfolio: $635,856
+
+100/223: 2019-05-28: Added=CTVA, Removed=FLR
+  Holding Period End Date: 2019-06-06
+  ✓ S1: CTVA -6.48%, Portfolio: $645,331
+  ✓ S2: Long CTVA (-6.48%), Short FLR (-3.67%)
+      Combined: -5.08%, Portfolio: $603,582
+
+101/223: 2019-05-28: Added=DD, Removed=DWDP
+  Holding Period End Date: 2019-06-06
+  ✓ S1: DD 11.58%, Portfolio: $720,032
+    YFinance output for DWDP: 1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DWDP
+  ✗ S2: Insufficient data for DD/DWDP
+
+102/223: 2019-06-03: Added=BMS, Removed=MAT
+  Holding Period End Date: 2019-06-12
+  ✓ S1: BMS -0.69%, Portfolio: $715,037
+  ✓ S2: Long BMS (-0.69%), Short MAT (-15.20%)
+      Combined: -7.95%, Portfolio: $555,609
+
+103/223: 2019-06-03: Added=AMCR, Removed=BMS
+  Holding Period End Date: 2019-06-12
+  ✓ S1: AMCR 0.63%, Portfolio: $719,526
+  ✓ S2: Long AMCR (0.63%), Short BMS (0.70%)
+      Combined: 0.66%, Portfolio: $559,295
+
+104/223: 2019-06-24: Added=MKTX, Removed=LLL
+  Holding Period End Date: 2019-07-03
+  ✓ S1: MKTX 1.65%, Portfolio: $731,366
+    YFinance output for LLL: 1 Failed download:
+['LLL']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for LLL
+  ✗ S2: Insufficient data for MKTX/LLL
+
+105/223: 2019-07-09: Added=TMUS, Removed=RHT
+  Holding Period End Date: 2019-07-18
+  ✓ S1: TMUS 3.75%, Portfolio: $758,810
+    YFinance output for RHT: 1 Failed download:
+['RHT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for RHT
+  ✗ S2: Insufficient data for TMUS/RHT
+
+106/223: 2019-08-01: Added=IEX, Removed=FL
+  Holding Period End Date: 2019-08-12
+  ✓ S1: IEX -3.52%, Portfolio: $732,089
+  ✓ S2: Long IEX (-3.52%), Short FL (0.25%)
+      Combined: -1.63%, Portfolio: $550,159
+
+107/223: 2019-08-01: Added=LDOS, Removed=APC
+  Holding Period End Date: 2019-08-12
+  ✓ S1: LDOS -0.43%, Portfolio: $728,929
+    YFinance output for APC: 1 Failed download:
+['APC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for APC
+  ✗ S2: Insufficient data for LDOS/APC
+
+108/223: 2019-09-17: Added=CDW, Removed=TSS
+  Holding Period End Date: 2019-09-26
+  ✓ S1: CDW 8.44%, Portfolio: $790,420
+    YFinance output for TSS: 1 Failed download:
+['TSS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for TSS
+  ✗ S2: Insufficient data for CDW/TSS
+
+109/223: 2019-09-20: Added=NVR, Removed=JEF
+  Holding Period End Date: 2019-10-01
+  ✓ S1: NVR 2.30%, Portfolio: $808,567
+  ✓ S2: Long NVR (2.30%), Short JEF (0.34%)
+      Combined: 1.32%, Portfolio: $557,398
+
+110/223: 2019-09-20: Added=LVS, Removed=NKTR
+  Holding Period End Date: 2019-10-01
+  ✓ S1: LVS 1.56%, Portfolio: $821,199
+  ✓ S2: Long LVS (1.56%), Short NKTR (9.33%)
+      Combined: 5.45%, Portfolio: $587,762
+
+111/223: 2019-11-18: Added=NOW, Removed=CELG
+  Holding Period End Date: 2019-11-27
+  ✓ S1: NOW 5.62%, Portfolio: $867,361
+    YFinance output for CELG: 1 Failed download:
+['CELG']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CELG
+  ✗ S2: Insufficient data for NOW/CELG
+
+112/223: 2019-11-27: Added=WRB, Removed=VIAB
+  Holding Period End Date: 2019-12-09
+  ✓ S1: WRB 1.42%, Portfolio: $879,649
+    YFinance output for VIAB: 1 Failed download:
+['VIAB']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for VIAB
+  ✗ S2: Insufficient data for WRB/VIAB
+
+113/223: 2019-12-02: Added=ODFL, Removed=STI
+  Holding Period End Date: 2019-12-11
+  ✓ S1: ODFL -0.22%, Portfolio: $877,711
+    YFinance output for STI: 1 Failed download:
+['STI']: YFPricesMissingError('possibly delisted; no price data found  (1d 2019-12-02 00:00:00 -> 2019-12-12) (Yahoo error = "Data doesn\'t exist for startDate = 1575262800, endDate = 1576126800")')
+    Warning: No data found for STI
+  ✗ S2: Insufficient data for ODFL/STI
+
+114/223: 2019-12-13: Added=ZBRA, Removed=TRIP
+  Holding Period End Date: 2019-12-24
+  ✓ S1: ZBRA -1.35%, Portfolio: $865,897
+  ✓ S2: Long ZBRA (-1.35%), Short TRIP (-2.99%)
+      Combined: -2.17%, Portfolio: $575,034
+
+115/223: 2019-12-13: Added=LYV, Removed=AMG
+  Holding Period End Date: 2019-12-24
+  ✓ S1: LYV 9.75%, Portfolio: $950,280
+  ✓ S2: Long LYV (9.75%), Short AMG (0.19%)
+      Combined: 4.97%, Portfolio: $603,594
+
+116/223: 2019-12-13: Added=STE, Removed=MAC
+  Holding Period End Date: 2019-12-24
+  ✓ S1: STE 0.07%, Portfolio: $950,905
+  ✓ S2: Long STE (0.07%), Short MAC (-1.21%)
+      Combined: -0.57%, Portfolio: $600,131
+
+117/223: 2020-01-22: Added=PAYC, Removed=WCG
+  Holding Period End Date: 2020-01-31
+  ✓ S1: PAYC 4.91%, Portfolio: $997,560
+    YFinance output for WCG: 1 Failed download:
+['WCG']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for WCG
+  ✗ S2: Insufficient data for PAYC/WCG
+
+118/223: 2020-02-27: Added=IR, Removed=XEC
+  Holding Period End Date: 2020-03-09
+  ✓ S1: IR -30.59%, Portfolio: $692,445
+    YFinance output for XEC: 1 Failed download:
+['XEC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for XEC
+  ✗ S2: Insufficient data for IR/XEC
+
+119/223: 2020-03-31: Added=nan, Removed=M
+  Holding Period End Date: 2020-04-09
+
+120/223: 2020-03-31: Added=nan, Removed=RTN
+  Holding Period End Date: 2020-04-09
+
+121/223: 2020-03-31: Added=CARR, Removed=nan
+  Holding Period End Date: 2020-04-09
+  ✓ S1: CARR -14.32%, Portfolio: $593,295
+
+122/223: 2020-03-31: Added=OTIS, Removed=nan
+  Holding Period End Date: 2020-04-09
+  ✓ S1: OTIS -1.72%, Portfolio: $583,090
+
+123/223: 2020-05-05: Added=HWM, Removed=ARNC
+  Holding Period End Date: 2020-05-14
+  ✓ S1: HWM -7.86%, Portfolio: $537,245
+    YFinance output for ARNC: 1 Failed download:
+['ARNC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ARNC
+  ✗ S2: Insufficient data for HWM/ARNC
+
+124/223: 2020-05-06: Added=DXCM, Removed=AGN
+  Holding Period End Date: 2020-05-15
+  ✓ S1: DXCM 13.97%, Portfolio: $612,309
+    YFinance output for AGN: 1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for AGN
+  ✗ S2: Insufficient data for DXCM/AGN
+
+125/223: 2020-05-06: Added=DPZ, Removed=CPRI
+  Holding Period End Date: 2020-05-15
+  ✓ S1: DPZ 1.00%, Portfolio: $618,460
+  ✓ S2: Long DPZ (1.00%), Short CPRI (2.87%)
+      Combined: 1.94%, Portfolio: $611,772
+
+126/223: 2020-05-18: Added=WST, Removed=HP
+  Holding Period End Date: 2020-05-28
+  ✓ S1: WST -5.66%, Portfolio: $583,431
+  ✓ S2: Long WST (-5.66%), Short HP (-6.50%)
+      Combined: -6.08%, Portfolio: $574,549
+
+127/223: 2020-06-12: Added=BIO, Removed=ADS
+  Holding Period End Date: 2020-06-23
+  ✓ S1: BIO 0.65%, Portfolio: $587,240
+    YFinance output for ADS: 1 Failed download:
+['ADS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ADS
+  ✗ S2: Insufficient data for BIO/ADS
+
+128/223: 2020-06-12: Added=TDY, Removed=HOG
+  Holding Period End Date: 2020-06-23
+  ✓ S1: TDY -4.92%, Portfolio: $558,365
+  ✓ S2: Long TDY (-4.92%), Short HOG (1.46%)
+      Combined: -1.73%, Portfolio: $564,608
+
+129/223: 2020-06-12: Added=TYL, Removed=JWN
+  Holding Period End Date: 2020-06-23
+  ✓ S1: TYL -2.40%, Portfolio: $544,940
+    YFinance output for JWN: 1 Failed download:
+['JWN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for JWN
+  ✗ S2: Insufficient data for TYL/JWN
+
+130/223: 2020-09-04: Added=CTLT, Removed=KSS
+  Holding Period End Date: 2020-09-16
+    YFinance output for CTLT: 1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CTLT
+  ✗ S1: Insufficient data for CTLT
+    YFinance output for CTLT: 1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CTLT
+  ✗ S2: Insufficient data for CTLT/KSS
+
+131/223: 2020-09-04: Added=ETSY, Removed=HRB
+  Holding Period End Date: 2020-09-16
+  ✓ S1: ETSY -2.89%, Portfolio: $529,182
+  ✓ S2: Long ETSY (-2.89%), Short HRB (0.02%)
+      Combined: -1.44%, Portfolio: $556,502
+
+132/223: 2020-09-04: Added=TER, Removed=COTY
+  Holding Period End Date: 2020-09-16
+  ✓ S1: TER -2.89%, Portfolio: $513,898
+  ✓ S2: Long TER (-2.89%), Short COTY (19.08%)
+      Combined: 8.09%, Portfolio: $601,547
+
+133/223: 2020-10-01: Added=POOL, Removed=ETFC
+  Holding Period End Date: 2020-10-12
+  ✓ S1: POOL 7.44%, Portfolio: $552,110
+    YFinance output for ETFC: 1 Failed download:
+['ETFC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ETFC
+  ✗ S2: Insufficient data for POOL/ETFC
+
+134/223: 2020-10-05: Added=VNT, Removed=nan
+  Holding Period End Date: 2020-10-14
+  ✓ S1: VNT -18.22%, Portfolio: $451,522
+
+135/223: 2020-10-05: Added=nan, Removed=NBL
+  Holding Period End Date: 2020-10-14
+
+136/223: 2020-12-11: Added=TSLA, Removed=AIV
+  Holding Period End Date: 2020-12-22
+  ✓ S1: TSLA 4.98%, Portfolio: $473,987
+  ✓ S2: Long TSLA (4.98%), Short AIV (-14.06%)
+      Combined: -4.54%, Portfolio: $574,226
+
+137/223: 2020-12-30: Added=ENPH, Removed=TIF
+  Holding Period End Date: 2021-01-11
+  ✓ S1: ENPH 16.63%, Portfolio: $552,789
+    YFinance output for TIF: 1 Failed download:
+['TIF']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for TIF
+  ✗ S2: Insufficient data for ENPH/TIF
+
+138/223: 2021-01-15: Added=TRMB, Removed=CXO
+  Holding Period End Date: 2021-01-27
+  ✓ S1: TRMB -4.05%, Portfolio: $530,426
+    YFinance output for CXO: 1 Failed download:
+['CXO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CXO
+  ✗ S2: Insufficient data for TRMB/CXO
+
+139/223: 2021-02-08: Added=MPWR, Removed=FTI
+  Holding Period End Date: 2021-02-18
+  ✓ S1: MPWR 1.97%, Portfolio: $540,872
+  ✓ S2: Long MPWR (1.97%), Short FTI (12.56%)
+      Combined: 7.27%, Portfolio: $615,945
+
+140/223: 2021-03-12: Added=CZR, Removed=VNT
+  Holding Period End Date: 2021-03-23
+  ✓ S1: CZR -15.93%, Portfolio: $454,705
+  ✓ S2: Long CZR (-15.93%), Short VNT (-0.22%)
+      Combined: -8.08%, Portfolio: $566,189
+
+141/223: 2021-03-12: Added=PENN, Removed=SLG
+  Holding Period End Date: 2021-03-23
+  ✓ S1: PENN -14.29%, Portfolio: $389,707
+  ✓ S2: Long PENN (-14.29%), Short SLG (9.41%)
+      Combined: -2.44%, Portfolio: $552,370
+
+142/223: 2021-03-12: Added=NXPI, Removed=FLS
+  Holding Period End Date: 2021-03-23
+  ✓ S1: NXPI 4.44%, Portfolio: $407,018
+  ✓ S2: Long NXPI (4.44%), Short FLS (10.43%)
+      Combined: 7.44%, Portfolio: $593,444
+
+143/223: 2021-03-12: Added=GNRC, Removed=XRX
+  Holding Period End Date: 2021-03-23
+  ✓ S1: GNRC -7.81%, Portfolio: $375,216
+  ✓ S2: Long GNRC (-7.81%), Short XRX (13.88%)
+      Combined: 3.03%, Portfolio: $611,446
+
+144/223: 2021-04-15: Added=PTC, Removed=VAR
+  Holding Period End Date: 2021-04-26
+  ✓ S1: PTC 0.87%, Portfolio: $378,496
+    YFinance output for VAR: 1 Failed download:
+['VAR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for VAR
+  ✗ S2: Insufficient data for PTC/VAR
+
+145/223: 2021-05-10: Added=CRL, Removed=FLIR
+  Holding Period End Date: 2021-05-19
+  ✓ S1: CRL -4.17%, Portfolio: $362,714
+    YFinance output for FLIR: 1 Failed download:
+['FLIR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FLIR
+  ✗ S2: Insufficient data for CRL/FLIR
+
+146/223: 2021-05-27: Added=OGN, Removed=nan
+  Holding Period End Date: 2021-06-08
+  ✓ S1: OGN -18.56%, Portfolio: $295,382
+
+147/223: 2021-05-27: Added=nan, Removed=HFC
+  Holding Period End Date: 2021-06-08
+
+148/223: 2021-07-15: Added=MRNA, Removed=ALXN
+  Holding Period End Date: 2021-07-26
+  ✓ S1: MRNA 29.34%, Portfolio: $382,055
+    YFinance output for ALXN: 1 Failed download:
+['ALXN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ALXN
+  ✗ S2: Insufficient data for MRNA/ALXN
+
+149/223: 2021-08-24: Added=TECH, Removed=MXIM
+  Holding Period End Date: 2021-09-02
+  ✓ S1: TECH 3.71%, Portfolio: $396,243
+    YFinance output for MXIM: 1 Failed download:
+['MXIM']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MXIM
+  ✗ S2: Insufficient data for TECH/MXIM
+
+150/223: 2021-09-03: Added=BRO, Removed=NOV
+  Holding Period End Date: 2021-09-15
+  ✓ S1: BRO -2.48%, Portfolio: $386,428
+  ✓ S2: Long BRO (-2.48%), Short NOV (-6.97%)
+      Combined: -4.72%, Portfolio: $582,569
+
+151/223: 2021-09-03: Added=CDAY, Removed=UNM
+  Holding Period End Date: 2021-09-15
+    YFinance output for CDAY: 1 Failed download:
+['CDAY']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CDAY
+  ✗ S1: Insufficient data for CDAY
+    YFinance output for CDAY: 1 Failed download:
+['CDAY']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CDAY
+  ✗ S2: Insufficient data for CDAY/UNM
+
+152/223: 2021-09-03: Added=MTCH, Removed=PRGO
+  Holding Period End Date: 2021-09-15
+  ✓ S1: MTCH 7.22%, Portfolio: $414,330
+  ✓ S2: Long MTCH (7.22%), Short PRGO (-7.19%)
+      Combined: 0.02%, Portfolio: $582,671
+
+153/223: 2021-12-03: Added=FDS, Removed=WU
+  Holding Period End Date: 2021-12-14
+  ✓ S1: FDS -0.96%, Portfolio: $410,341
+  ✓ S2: Long FDS (-0.96%), Short WU (-5.27%)
+      Combined: -3.12%, Portfolio: $564,499
+
+154/223: 2021-12-03: Added=SEDG, Removed=HBI
+  Holding Period End Date: 2021-12-14
+  ✓ S1: SEDG -2.83%, Portfolio: $398,712
+  ✓ S2: Long SEDG (-2.83%), Short HBI (-1.32%)
+      Combined: -2.08%, Portfolio: $552,782
+
+155/223: 2021-12-03: Added=SBNY, Removed=LEG
+  Holding Period End Date: 2021-12-14
+    YFinance output for SBNY: 1 Failed download:
+['SBNY']: YFPricesMissingError('possibly delisted; no price data found  (1d 2021-12-03 00:00:00 -> 2021-12-15) (Yahoo error = "Data doesn\'t exist for startDate = 1638507600, endDate = 1639544400")')
+    Warning: No data found for SBNY
+  ✗ S1: Insufficient data for SBNY
+    YFinance output for SBNY: 1 Failed download:
+['SBNY']: YFPricesMissingError('possibly delisted; no price data found  (1d 2021-12-03 00:00:00 -> 2021-12-15) (Yahoo error = "Data doesn\'t exist for startDate = 1638507600, endDate = 1639544400")')
+    Warning: No data found for SBNY
+  ✗ S2: Insufficient data for SBNY/LEG
+
+156/223: 2021-12-07: Added=EPAM, Removed=KSU
+  Holding Period End Date: 2021-12-16
+  ✓ S1: EPAM 6.85%, Portfolio: $426,006
+    YFinance output for KSU: 1 Failed download:
+['KSU']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for KSU
+  ✗ S2: Insufficient data for EPAM/KSU
+
+157/223: 2022-01-26: Added=CEG, Removed=nan
+  Holding Period End Date: 2022-02-04
+  ✓ S1: CEG 16.01%, Portfolio: $494,214
+
+158/223: 2022-01-26: Added=nan, Removed=GPS
+  Holding Period End Date: 2022-02-04
+
+159/223: 2022-02-10: Added=NDSN, Removed=XLNX
+  Holding Period End Date: 2022-02-22
+  ✓ S1: NDSN -1.35%, Portfolio: $487,556
+    YFinance output for XLNX: 1 Failed download:
+['XLNX']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for XLNX
+  ✗ S2: Insufficient data for NDSN/XLNX
+
+160/223: 2022-02-25: Added=MOH, Removed=INFO
+  Holding Period End Date: 2022-03-08
+  ✓ S1: MOH -3.07%, Portfolio: $472,592
+    YFinance output for INFO: 1 Failed download:
+['INFO']: YFPricesMissingError('possibly delisted; no price data found  (1d 2022-02-25 00:00:00 -> 2022-03-09) (Yahoo error = "Data doesn\'t exist for startDate = 1645765200, endDate = 1646802000")')
+    Warning: No data found for INFO
+  ✗ S2: Insufficient data for MOH/INFO
+
+161/223: 2022-03-29: Added=CPT, Removed=PBCT
+  Holding Period End Date: 2022-04-07
+  ✓ S1: CPT 1.30%, Portfolio: $478,750
+    YFinance output for PBCT: 1 Failed download:
+['PBCT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for PBCT
+  ✗ S2: Insufficient data for CPT/PBCT
+
+162/223: 2022-04-07: Added=WBD, Removed=DISCA
+  Holding Period End Date: 2022-04-19
+  ✓ S1: WBD 6.16%, Portfolio: $508,218
+    YFinance output for DISCA: 1 Failed download:
+['DISCA']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DISCA
+  ✗ S2: Insufficient data for WBD/DISCA
+
+163/223: 2022-04-07: Added=nan, Removed=DISCK
+  Holding Period End Date: 2022-04-19
+
+164/223: 2022-06-03: Added=VICI, Removed=CERN
+  Holding Period End Date: 2022-06-14
+  ✓ S1: VICI -10.39%, Portfolio: $455,437
+    YFinance output for CERN: 1 Failed download:
+['CERN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CERN
+  ✗ S2: Insufficient data for VICI/CERN
+
+165/223: 2022-06-03: Added=ON, Removed=IPGP
+  Holding Period End Date: 2022-06-14
+  ✓ S1: ON -9.99%, Portfolio: $409,922
+  ✓ S2: Long ON (-9.99%), Short IPGP (10.66%)
+      Combined: 0.34%, Portfolio: $554,634
+
+166/223: 2022-06-03: Added=KDP, Removed=UAA
+  Holding Period End Date: 2022-06-14
+  ✓ S1: KDP -1.52%, Portfolio: $403,702
+  ✓ S2: Long KDP (-1.52%), Short UAA (16.28%)
+      Combined: 7.38%, Portfolio: $595,571
+
+167/223: 2022-06-03: Added=nan, Removed=UA
+  Holding Period End Date: 2022-06-14
+
+168/223: 2022-09-02: Added=CSGP, Removed=PVH
+  Holding Period End Date: 2022-09-14
+  ✓ S1: CSGP 4.34%, Portfolio: $421,242
+  ✓ S2: Long CSGP (4.34%), Short PVH (-1.69%)
+      Combined: 1.33%, Portfolio: $603,474
+
+169/223: 2022-09-02: Added=INVH, Removed=PENN
+  Holding Period End Date: 2022-09-14
+  ✓ S1: INVH 4.77%, Portfolio: $441,340
+  ✓ S2: Long INVH (4.77%), Short PENN (1.72%)
+      Combined: 3.25%, Portfolio: $623,067
+
+170/223: 2022-09-23: Added=PCG, Removed=CTXS
+  Holding Period End Date: 2022-10-04
+  ✓ S1: PCG 12.53%, Portfolio: $496,638
+    YFinance output for CTXS: 1 Failed download:
+['CTXS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CTXS
+  ✗ S2: Insufficient data for PCG/CTXS
+
+171/223: 2022-09-23: Added=EQT, Removed=DRE
+  Holding Period End Date: 2022-10-04
+  ✓ S1: EQT 8.85%, Portfolio: $540,573
+    YFinance output for DRE: 1 Failed download:
+['DRE']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DRE
+  ✗ S2: Insufficient data for EQT/DRE
+
+172/223: 2022-10-06: Added=TRGP, Removed=NLSN
+  Holding Period End Date: 2022-10-17
+  ✓ S1: TRGP 1.87%, Portfolio: $550,656
+    YFinance output for NLSN: 1 Failed download:
+['NLSN']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for NLSN
+  ✗ S2: Insufficient data for TRGP/NLSN
+
+173/223: 2022-10-27: Added=ACGL, Removed=TWTR
+  Holding Period End Date: 2022-11-07
+  ✓ S1: ACGL 12.23%, Portfolio: $617,983
+    YFinance output for TWTR: 1 Failed download:
+['TWTR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for TWTR
+  ✗ S2: Insufficient data for ACGL/TWTR
+
+174/223: 2022-12-12: Added=FSLR, Removed=FBHS
+  Holding Period End Date: 2022-12-21
+  ✓ S1: FSLR 7.84%, Portfolio: $666,425
+    YFinance output for FBHS: 1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FBHS
+  ✗ S2: Insufficient data for FSLR/FBHS
+
+175/223: 2022-12-12: Added=nan, Removed=MBC
+  Holding Period End Date: 2022-12-21
+
+176/223: 2022-12-12: Added=MBC, Removed=nan
+  Holding Period End Date: 2022-12-21
+  ✓ S1: MBC -11.29%, Portfolio: $591,158
+
+177/223: 2022-12-19: Added=STLD, Removed=ABMD
+  Holding Period End Date: 2022-12-29
+  ✓ S1: STLD -2.75%, Portfolio: $574,892
+    YFinance output for ABMD: 1 Failed download:
+['ABMD']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ABMD
+  ✗ S2: Insufficient data for STLD/ABMD
+
+178/223: 2022-12-28: Added=GEHC, Removed=nan
+  Holding Period End Date: 2023-01-09
+  ✓ S1: GEHC 1.04%, Portfolio: $580,891
+
+179/223: 2022-12-28: Added=nan, Removed=VNO
+  Holding Period End Date: 2023-01-09
+
+180/223: 2023-03-03: Added=FICO, Removed=LUMN
+  Holding Period End Date: 2023-03-14
+  ✓ S1: FICO -1.18%, Portfolio: $574,022
+  ✓ S2: Long FICO (-1.18%), Short LUMN (21.92%)
+      Combined: 10.37%, Portfolio: $687,681
+
+181/223: 2023-03-10: Added=PODD, Removed=SIVB
+  Holding Period End Date: 2023-03-21
+  ✓ S1: PODD 16.29%, Portfolio: $667,529
+    YFinance output for SIVB: 1 Failed download:
+['SIVB']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SIVB
+  ✗ S2: Insufficient data for PODD/SIVB
+
+182/223: 2023-03-13: Added=BG, Removed=SBNY
+  Holding Period End Date: 2023-03-22
+  ✓ S1: BG 4.65%, Portfolio: $698,571
+    YFinance output for SBNY: 1 Failed download:
+['SBNY']: YFPricesMissingError('possibly delisted; no price data found  (1d 2023-03-13 00:00:00 -> 2023-03-23) (Yahoo error = "Data doesn\'t exist for startDate = 1678680000, endDate = 1679544000")')
+    Warning: No data found for SBNY
+  ✗ S2: Insufficient data for BG/SBNY
+
+183/223: 2023-05-01: Added=AXON, Removed=FRC
+  Holding Period End Date: 2023-05-10
+  ✓ S1: AXON -10.77%, Portfolio: $623,313
+    YFinance output for FRC: 1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FRC
+  ✗ S2: Insufficient data for AXON/FRC
+
+184/223: 2023-06-02: Added=PANW, Removed=DISH
+  Holding Period End Date: 2023-06-13
+  ✓ S1: PANW 7.54%, Portfolio: $670,340
+    YFinance output for DISH: 1 Failed download:
+['DISH']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DISH
+  ✗ S2: Insufficient data for PANW/DISH
+
+185/223: 2023-08-21: Added=nan, Removed=TEL
+  Holding Period End Date: 2023-08-30
+
+186/223: 2023-08-21: Added=KVUE, Removed=AAP
+  Holding Period End Date: 2023-08-30
+  ✓ S1: KVUE 1.60%, Portfolio: $681,073
+  ✓ S2: Long KVUE (1.60%), Short AAP (0.15%)
+      Combined: 0.87%, Portfolio: $693,691
+
+187/223: 2023-08-21: Added=PCS, Removed=nan
+  Holding Period End Date: 2023-08-30
+    YFinance output for PCS: 1 Failed download:
+['PCS']: YFPricesMissingError('possibly delisted; no price data found  (1d 2023-08-21 00:00:00 -> 2023-08-31) (Yahoo error = "Data doesn\'t exist for startDate = 1692590400, endDate = 1693454400")')
+    Warning: No data found for PCS
+  ✗ S1: Insufficient data for PCS
+
+188/223: 2023-09-14: Added=BX, Removed=LNC
+  Holding Period End Date: 2023-09-25
+  ✓ S1: BX -2.14%, Portfolio: $666,510
+  ✓ S2: Long BX (-2.14%), Short LNC (3.29%)
+      Combined: 0.58%, Portfolio: $697,702
+
+189/223: 2023-09-14: Added=ABNB, Removed=NWL
+  Holding Period End Date: 2023-09-25
+  ✓ S1: ABNB -6.92%, Portfolio: $620,356
+  ✓ S2: Long ABNB (-6.92%), Short NWL (10.58%)
+      Combined: 1.83%, Portfolio: $710,454
+
+190/223: 2023-09-28: Added=VLTO, Removed=nan
+  Holding Period End Date: 2023-10-09
+  ✓ S1: VLTO -4.10%, Portfolio: $594,920
+
+191/223: 2023-09-28: Added=nan, Removed=DXC
+  Holding Period End Date: 2023-10-09
+
+192/223: 2023-10-13: Added=LULU, Removed=ATVI
+  Holding Period End Date: 2023-10-24
+  ✓ S1: LULU 6.80%, Portfolio: $635,370
+    YFinance output for ATVI: 1 Failed download:
+['ATVI']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for ATVI
+  ✗ S2: Insufficient data for LULU/ATVI
+
+193/223: 2023-10-13: Added=HUBB, Removed=OGN
+  Holding Period End Date: 2023-10-24
+  ✓ S1: HUBB -4.25%, Portfolio: $608,363
+  ✓ S2: Long HUBB (-4.25%), Short OGN (9.90%)
+      Combined: 2.82%, Portfolio: $730,517
+
+194/223: 2023-12-01: Added=UBER, Removed=SEE
+  Holding Period End Date: 2023-12-12
+  ✓ S1: UBER 9.36%, Portfolio: $665,328
+  ✓ S2: Long UBER (9.36%), Short SEE (3.06%)
+      Combined: 6.21%, Portfolio: $775,880
+
+195/223: 2023-12-01: Added=BLDR, Removed=SEDG
+  Holding Period End Date: 2023-12-12
+  ✓ S1: BLDR 7.40%, Portfolio: $714,578
+  ✓ S2: Long BLDR (7.40%), Short SEDG (8.27%)
+      Combined: 7.84%, Portfolio: $836,679
+
+196/223: 2023-12-01: Added=JBL, Removed=ALK
+  Holding Period End Date: 2023-12-12
+  ✓ S1: JBL 2.77%, Portfolio: $734,381
+  ✓ S2: Long JBL (2.77%), Short ALK (6.49%)
+      Combined: 4.63%, Portfolio: $875,407
+
+197/223: 2024-03-01: Added=SMCI, Removed=WHR
+  Holding Period End Date: 2024-03-12
+  ✓ S1: SMCI 28.44%, Portfolio: $943,241
+  ✓ S2: Long SMCI (28.44%), Short WHR (-0.90%)
+      Combined: 13.77%, Portfolio: $995,952
+
+198/223: 2024-03-01: Added=DECK, Removed=ZION
+  Holding Period End Date: 2024-03-12
+  ✓ S1: DECK 1.30%, Portfolio: $955,521
+  ✓ S2: Long DECK (1.30%), Short ZION (-5.21%)
+      Combined: -1.95%, Portfolio: $976,501
+
+199/223: 2024-03-27: Added=SOLV, Removed=nan
+  Holding Period End Date: 2024-04-08
+  ✓ S1: SOLV -10.65%, Portfolio: $853,726
+
+200/223: 2024-03-27: Added=GEV, Removed=nan
+  Holding Period End Date: 2024-04-08
+  ✓ S1: GEV -0.98%, Portfolio: $845,335
+
+201/223: 2024-03-27: Added=nan, Removed=XRAY
+  Holding Period End Date: 2024-04-08
+
+202/223: 2024-03-27: Added=nan, Removed=VFC
+  Holding Period End Date: 2024-04-08
+
+203/223: 2024-05-03: Added=VST, Removed=PXD
+  Holding Period End Date: 2024-05-14
+  ✓ S1: VST 12.25%, Portfolio: $948,863
+    YFinance output for PXD: 1 Failed download:
+['PXD']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for PXD
+  ✗ S2: Insufficient data for VST/PXD
+
+204/223: 2024-06-07: Added=KKR, Removed=RHI
+  Holding Period End Date: 2024-06-18
+  ✓ S1: KKR 12.75%, Portfolio: $1,069,806
+  ✓ S2: Long KKR (12.75%), Short RHI (-2.46%)
+      Combined: 5.14%, Portfolio: $1,026,723
+
+205/223: 2024-06-07: Added=CRWD, Removed=CMA
+  Holding Period End Date: 2024-06-18
+  ✓ S1: CRWD 11.57%, Portfolio: $1,193,573
+  ✓ S2: Long CRWD (11.57%), Short CMA (0.43%)
+      Combined: 6.00%, Portfolio: $1,088,314
+
+206/223: 2024-06-07: Added=GDDY, Removed=ILMN
+  Holding Period End Date: 2024-06-18
+  ✓ S1: GDDY -1.66%, Portfolio: $1,173,703
+  ✓ S2: Long GDDY (-1.66%), Short ILMN (5.18%)
+      Combined: 1.76%, Portfolio: $1,107,444
+
+207/223: 2024-09-06: Added=ERIE, Removed=BIO
+  Holding Period End Date: 2024-09-17
+  ✓ S1: ERIE 3.68%, Portfolio: $1,216,891
+  ✓ S2: Long ERIE (3.68%), Short BIO (-1.17%)
+      Combined: 1.25%, Portfolio: $1,121,330
+
+208/223: 2024-09-06: Added=DELL, Removed=ETSY
+  Holding Period End Date: 2024-09-17
+  ✓ S1: DELL 14.53%, Portfolio: $1,393,698
+  ✓ S2: Long DELL (14.53%), Short ETSY (-1.66%)
+      Combined: 6.43%, Portfolio: $1,193,463
+
+209/223: 2024-09-06: Added=PLTR, Removed=AAL
+  Holding Period End Date: 2024-09-17
+  ✓ S1: PLTR 20.18%, Portfolio: $1,674,919
+  ✓ S2: Long PLTR (20.18%), Short AAL (-3.31%)
+      Combined: 8.43%, Portfolio: $1,294,105
+
+210/223: 2024-09-24: Added=AMTM, Removed=nan
+  Holding Period End Date: 2024-10-03
+  ✓ S1: AMTM -13.93%, Portfolio: $1,441,645
+
+211/223: 2024-09-24: Added=nan, Removed=BBWI
+  Holding Period End Date: 2024-10-03
+
+212/223: 2024-11-21: Added=TPL, Removed=MRO
+  Holding Period End Date: 2024-12-03
+  ✓ S1: TPL 3.69%, Portfolio: $1,494,888
+    YFinance output for MRO: 1 Failed download:
+['MRO']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for MRO
+  ✗ S2: Insufficient data for TPL/MRO
+
+213/223: 2024-12-06: Added=WDAY, Removed=AMTM
+  Holding Period End Date: 2024-12-17
+  ✓ S1: WDAY 4.35%, Portfolio: $1,559,919
+  ✓ S2: Long WDAY (4.35%), Short AMTM (7.72%)
+      Combined: 6.03%, Portfolio: $1,372,189
+
+214/223: 2024-12-06: Added=APO, Removed=QRVO
+  Holding Period End Date: 2024-12-17
+  ✓ S1: APO -0.86%, Portfolio: $1,546,500
+  ✓ S2: Long APO (-0.86%), Short QRVO (-3.69%)
+      Combined: -2.28%, Portfolio: $1,340,951
+
+215/223: 2024-12-18: Added=LII, Removed=CTLT
+  Holding Period End Date: 2024-12-30
+  ✓ S1: LII -3.81%, Portfolio: $1,487,554
+    YFinance output for CTLT: 1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CTLT
+  ✗ S2: Insufficient data for LII/CTLT
+
+216/223: 2025-03-07: Added=EXE, Removed=FMC
+  Holding Period End Date: 2025-03-18
+  ✓ S1: EXE 12.07%, Portfolio: $1,667,159
+  ✓ S2: Long EXE (12.07%), Short FMC (-3.60%)
+      Combined: 4.24%, Portfolio: $1,397,795
+
+217/223: 2025-03-07: Added=WSM, Removed=CE
+  Holding Period End Date: 2025-03-18
+  ✓ S1: WSM -8.56%, Portfolio: $1,524,432
+  ✓ S2: Long WSM (-8.56%), Short CE (-5.47%)
+      Combined: -7.01%, Portfolio: $1,299,745
+
+218/223: 2025-03-07: Added=TKO, Removed=TFX
+  Holding Period End Date: 2025-03-18
+  ✓ S1: TKO 1.48%, Portfolio: $1,547,060
+  ✓ S2: Long TKO (1.48%), Short TFX (-0.08%)
+      Combined: 0.70%, Portfolio: $1,308,881
+
+219/223: 2025-03-07: Added=DASH, Removed=BWA
+  Holding Period End Date: 2025-03-18
+  ✓ S1: DASH 4.00%, Portfolio: $1,609,002
+  ✓ S2: Long DASH (4.00%), Short BWA (3.44%)
+      Combined: 3.72%, Portfolio: $1,357,564
+
+220/223: 2025-05-12: Added=COIN, Removed=DFS
+  Holding Period End Date: 2025-05-21
+  ✓ S1: COIN 24.98%, Portfolio: $2,010,980
+    YFinance output for DFS: 1 Failed download:
+['DFS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DFS
+  ✗ S2: Insufficient data for COIN/DFS
+
+221/223: 2025-07-02: Added=DDOG, Removed=JNPR
+  Holding Period End Date: 2025-07-14
+  ✓ S1: DDOG 2.81%, Portfolio: $2,067,433
+  ✗ S2: Insufficient data for DDOG/JNPR
+
+222/223: 2025-07-14: Added=TTD, Removed=ANSS
+  Holding Period End Date: 2025-07-23
+  ✓ S1: TTD 12.20%, Portfolio: $2,319,592
+  ✓ S2: Long TTD (12.20%), Short ANSS (3.09%)
+      Combined: 7.64%, Portfolio: $1,461,299
+
+223/223: 2025-07-18: Added=XYZ, Removed=HES
+  Holding Period End Date: 2025-07-29
+  ✓ S1: XYZ 7.36%, Portfolio: $2,490,328
+  ✗ S2: Insufficient data for XYZ/HES
+
+============================================================
+FINAL RESULTS
+Strategy 1: 185 successful trades, Final: $2,490,328 (149.03%)
+Strategy 2: 82 successful trades, Final: $1,461,299 (46.13%)
+Completed: 2025-08-23 20:04:34
