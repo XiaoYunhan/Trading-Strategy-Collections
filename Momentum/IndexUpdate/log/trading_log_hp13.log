@@ -1,0 +1,1647 @@
+S&P 500 Index Update Trading Strategy Analysis
+Holding Period: 13 trading days
+Date Range: 2015-07-02 to 2025-07-18
+Timestamp: 2025-08-31 17:19:28
+============================================================
+
+1/223: 2015-07-02: Added=KHC, Removed=KRFT
+  Holding Period End Date: 2015-07-22
+  ✓ S1: KHC 1.77%, Portfolio: $1,017,742
+    YFinance output for KHC: 1 Failed download:
+['SRCL']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for KHC
+    Error fetching KRFT: 'EQT'
+  ✗ S2: Insufficient data for KHC/KRFT
+
+2/223: 2015-07-06: Added=AAP, Removed=FDO
+  Holding Period End Date: 2015-07-23
+  ✓ S1: AAP -0.15%, Portfolio: $1,016,265
+    Warning: No data found for FDO
+  ✗ S2: Insufficient data for AAP/FDO
+
+3/223: 2015-07-14: Added=PYPL, Removed=NE
+  Holding Period End Date: 2015-07-31
+    YFinance output for PYPL: 1 Failed download:
+['DFS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for PYPL
+  ✗ S1: Insufficient data for PYPL
+    YFinance output for PYPL: 1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for NE
+  ✗ S2: Insufficient data for PYPL/NE
+
+4/223: 2015-07-24: Added=SIG, Removed=DTV
+  Holding Period End Date: 2015-08-12
+    Warning: No data found for SIG
+  ✗ S1: Insufficient data for SIG
+    Warning: No data found for DTV
+  ✗ S2: Insufficient data for SIG/DTV
+
+5/223: 2015-08-27: Added=ATVI, Removed=PLL
+  Holding Period End Date: 2015-09-16
+    Warning: No data found for ATVI
+  ✗ S1: Insufficient data for ATVI
+    YFinance output for ATVI: 1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FRC']: YFTzMissingError('possibly delisted; no timezone found')
+  ✗ S2: Error processing ATVI/PLL: cannot convert the series to <class 'float'>
+
+6/223: 2015-08-27: Added=UAL, Removed=HSP
+  Holding Period End Date: 2015-09-16
+  ✓ S1: UAL 4.97%, Portfolio: $1,066,739
+    Warning: No data found for UAL
+  ✗ S2: Insufficient data for UAL/HSP
+
+7/223: 2015-09-30: Added=VRSK, Removed=JOY
+  Holding Period End Date: 2015-10-19
+  ✓ S1: VRSK -1.94%, Portfolio: $1,046,028
+    Warning: No data found for JOY
+  ✗ S2: Insufficient data for VRSK/JOY
+
+8/223: 2015-10-27: Added=HPE, Removed=HCBK
+  Holding Period End Date: 2015-11-13
+    Warning: No data found for HPE
+  ✗ S1: Insufficient data for HPE
+  ✓ S2: Long HPE (2.05%), Short HCBK (-8.38%)
+      Combined: -3.16%, Portfolio: $968,380
+
+9/223: 2015-11-09: Added=SYF, Removed=GNW
+  Holding Period End Date: 2015-11-27
+  ✓ S1: SYF -4.07%, Portfolio: $1,003,468
+    YFinance output for GNW: 1 Failed download:
+['ESRX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2018-12-27 00:00:00 -> 2019-01-07)')
+  ✗ S2: Error processing SYF/GNW: cannot convert the series to <class 'float'>
+
+10/223: 2015-11-12: Added=ILMN, Removed=SIAL
+  Holding Period End Date: 2015-12-02
+    Warning: No data found for ILMN
+  ✗ S1: Insufficient data for ILMN
+    Warning: No data found for ILMN
+    Warning: No data found for SIAL
+  ✗ S2: Insufficient data for ILMN/SIAL
+
+11/223: 2015-11-23: Added=CSRA, Removed=CSC
+  Holding Period End Date: 2015-12-11
+  ✗ S1: Error processing CSRA: cannot convert the series to <class 'float'>
+  ✗ S2: Error processing CSRA/CSC: cannot convert the series to <class 'float'>
+
+12/223: 2015-12-15: Added=nan, Removed=CMCSK
+  Holding Period End Date: 2016-01-05
+
+13/223: 2015-12-22: Added=CHD, Removed=ALTR
+  Holding Period End Date: 2016-01-12
+  ✓ S1: CHD 73.81%, Portfolio: $1,744,088
+  ✓ S2: Long CHD (-0.30%), Short ALTR (-3.97%)
+      Combined: -2.13%, Portfolio: $947,707
+
+14/223: 2015-12-28: Added=WLTW, Removed=FOSL
+  Holding Period End Date: 2016-01-15
+  ✓ S1: WLTW 0.94%, Portfolio: $1,760,464
+  ✗ S2: Error processing WLTW/FOSL: cannot convert the series to <class 'float'>
+
+15/223: 2016-01-13: Added=EXR, Removed=ACE
+  Holding Period End Date: 2016-02-02
+  ✓ S1: EXR 4.72%, Portfolio: $1,843,627
+  ✓ S2: Long EXR (-7.90%), Short ACE (-14.43%)
+      Combined: -11.16%, Portfolio: $841,898
+
+16/223: 2016-01-22: Added=FRT, Removed=BRCM
+  Holding Period End Date: 2016-02-10
+  ✓ S1: FRT -0.76%, Portfolio: $1,829,568
+  ✓ S2: Long FRT (-0.76%), Short BRCM (-2.52%)
+      Combined: -1.64%, Portfolio: $828,088
+
+17/223: 2016-01-26: Added=CFG, Removed=PCP
+  Holding Period End Date: 2016-02-12
+  ✓ S1: CFG 0.31%, Portfolio: $1,835,294
+  ✓ S2: Long CFG (-4.99%), Short PCP (2.45%)
+      Combined: -1.27%, Portfolio: $817,544
+
+18/223: 2016-02-16: Added=CXO, Removed=PCL
+  Holding Period End Date: 2016-03-04
+  ✓ S1: CXO -0.55%, Portfolio: $1,825,190
+  ✗ S2: Error processing CXO/PCL: cannot convert the series to <class 'float'>
+
+19/223: 2016-03-01: Added=AWK, Removed=CNX
+  Holding Period End Date: 2016-03-18
+  ✓ S1: AWK -0.68%, Portfolio: $1,812,708
+  ✓ S2: Long AWK (5.69%), Short CNX (1.60%)
+      Combined: 3.65%, Portfolio: $847,354
+
+20/223: 2016-03-04: Added=UDR, Removed=GMCR
+  Holding Period End Date: 2016-03-23
+  ✓ S1: UDR -8.13%, Portfolio: $1,665,278
+  ✓ S2: Long UDR (3.03%), Short GMCR (0.44%)
+      Combined: 1.73%, Portfolio: $862,023
+
+21/223: 2016-03-24: Added=CNC, Removed=ESV
+  Holding Period End Date: 2016-04-13
+  ✓ S1: CNC -2.16%, Portfolio: $1,629,242
+  ✓ S2: Long CNC (-5.91%), Short ESV (-18.19%)
+      Combined: -12.05%, Portfolio: $758,176
+
+22/223: 2016-03-24: Added=HOLX, Removed=POM
+  Holding Period End Date: 2016-04-13
+  ✓ S1: HOLX -4.75%, Portfolio: $1,551,888
+  ✓ S2: Long HOLX (-4.75%), Short POM (0.93%)
+      Combined: -1.91%, Portfolio: $743,703
+
+23/223: 2016-03-28: Added=FL, Removed=CAM
+  Holding Period End Date: 2016-04-14
+  ✓ S1: FL -1.55%, Portfolio: $1,527,836
+  ✓ S2: Long FL (-6.26%), Short CAM (6.67%)
+      Combined: 0.21%, Portfolio: $745,255
+
+24/223: 2016-04-07: Added=ULTA, Removed=THC
+  Holding Period End Date: 2016-04-26
+  ✓ S1: ULTA 2.58%, Portfolio: $1,567,301
+  ✓ S2: Long ULTA (6.25%), Short THC (2.76%)
+      Combined: 4.51%, Portfolio: $778,846
+
+25/223: 2016-04-19: Added=GPN, Removed=GME
+  Holding Period End Date: 2016-05-06
+  ✓ S1: GPN 1.04%, Portfolio: $1,583,600
+  ✓ S2: Long GPN (-2.69%), Short GME (-10.37%)
+      Combined: -6.53%, Portfolio: $727,974
+
+26/223: 2016-04-26: Added=AYI, Removed=ADT
+  Holding Period End Date: 2016-05-13
+  ✓ S1: AYI -13.75%, Portfolio: $1,365,865
+  ✗ S2: Error processing AYI/ADT: cannot convert the series to <class 'float'>
+
+27/223: 2016-05-10: Added=ALK, Removed=SNDK
+  Holding Period End Date: 2016-05-27
+  ✓ S1: ALK -2.62%, Portfolio: $1,330,015
+    Warning: No data found for SNDK
+  ✗ S2: Insufficient data for ALK/SNDK
+
+28/223: 2016-05-13: Added=DLR, Removed=TWC
+  Holding Period End Date: 2016-06-02
+  ✓ S1: DLR 13.08%, Portfolio: $1,503,990
+  ✓ S2: Long DLR (2.25%), Short TWC (-3.80%)
+      Combined: -0.77%, Portfolio: $722,346
+
+29/223: 2016-05-18: Added=LKQ, Removed=ARG
+  Holding Period End Date: 2016-06-07
+  ✓ S1: LKQ -0.28%, Portfolio: $1,499,835
+  ✓ S2: Long LKQ (17.93%), Short ARG (-14.43%)
+      Combined: 1.75%, Portfolio: $734,992
+
+30/223: 2016-05-24: Added=AJG, Removed=CCE
+  Holding Period End Date: 2016-06-13
+    YFinance output for AJG: 1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DWDP']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for AJG
+  ✗ S1: Insufficient data for AJG
+  ✓ S2: Long AJG (14.95%), Short CCE (0.00%)
+      Combined: 7.48%, Portfolio: $789,947
+
+31/223: 2016-05-27: Added=TDG, Removed=BXLT
+  Holding Period End Date: 2016-06-16
+  ✓ S1: TDG 0.00%, Portfolio: $1,499,835
+    Warning: No data found for TDG
+  ✗ S2: Insufficient data for TDG/BXLT
+
+32/223: 2016-06-21: Added=FBHS, Removed=CVC
+  Holding Period End Date: 2016-07-11
+  ✓ S1: FBHS 0.63%, Portfolio: $1,509,251
+  ✗ S2: Error processing FBHS/CVC: cannot convert the series to <class 'float'>
+
+33/223: 2016-06-23: Added=FTV, Removed=CPGX
+  Holding Period End Date: 2016-07-13
+  ✓ S1: FTV 3.69%, Portfolio: $1,564,877
+  ✓ S2: Long FTV (-4.20%), Short CPGX (5.27%)
+      Combined: 0.54%, Portfolio: $794,192
+
+34/223: 2016-06-23: Added=ALB, Removed=TE
+  Holding Period End Date: 2016-07-13
+  ✓ S1: ALB 0.75%, Portfolio: $1,576,550
+  ✓ S2: Long ALB (12.02%), Short TE (3.66%)
+      Combined: 7.84%, Portfolio: $856,451
+
+35/223: 2016-06-29: Added=LNT, Removed=GAS
+  Holding Period End Date: 2016-07-19
+  ✓ S1: LNT -1.52%, Portfolio: $1,552,512
+  ✓ S2: Long LNT (0.12%), Short GAS (-0.27%)
+      Combined: -0.07%, Portfolio: $855,823
+
+36/223: 2016-08-25: Added=MTD, Removed=TYC
+  Holding Period End Date: 2016-09-14
+  ✗ S1: Error processing MTD: cannot convert the series to <class 'float'>
+    Warning: No data found for MTD
+  ✗ S2: Insufficient data for MTD/TYC
+
+37/223: 2016-08-31: Added=CHTR, Removed=EMC
+  Holding Period End Date: 2016-09-20
+  ✓ S1: CHTR -0.69%, Portfolio: $1,541,740
+    Warning: No data found for CHTR
+    Warning: No data found for EMC
+  ✗ S2: Insufficient data for CHTR/EMC
+
+38/223: 2016-09-10: Added=COO, Removed=HOT
+  Holding Period End Date: 2016-09-29
+  ✓ S1: COO -0.69%, Portfolio: $1,531,042
+  ✓ S2: Long COO (14.61%), Short HOT (-3.62%)
+      Combined: 5.50%, Portfolio: $902,870
+
+39/223: 2016-09-27: Added=COTY, Removed=DO
+  Holding Period End Date: 2016-10-14
+  ✓ S1: COTY 1.36%, Portfolio: $1,551,798
+    Warning: No data found for COTY
+  ✗ S2: Insufficient data for COTY/DO
+
+40/223: 2016-11-29: Added=MAA, Removed=OI
+  Holding Period End Date: 2016-12-16
+  ✓ S1: MAA 3.39%, Portfolio: $1,604,468
+  ✓ S2: Long MAA (1.30%), Short OI (0.00%)
+      Combined: 0.65%, Portfolio: $908,738
+
+41/223: 2016-11-29: Added=EVHC, Removed=LM
+  Holding Period End Date: 2016-12-16
+  ✗ S1: Error processing EVHC: cannot convert the series to <class 'float'>
+  ✓ S2: Long EVHC (1.06%), Short LM (3.65%)
+      Combined: 2.35%, Portfolio: $930,126
+
+42/223: 2017-01-03: Added=IDXX, Removed=STJ
+  Holding Period End Date: 2017-01-23
+    YFinance output for IDXX: 1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FBHS']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for IDXX
+  ✗ S1: Insufficient data for IDXX
+  ✗ S2: Error processing IDXX/STJ: cannot convert the series to <class 'float'>
+
+43/223: 2017-02-23: Added=INCY, Removed=SE
+  Holding Period End Date: 2017-03-14
+    Warning: No data found for INCY
+  ✗ S1: Insufficient data for INCY
+  ✗ S2: Error processing INCY/SE: cannot convert the series to <class 'float'>
+
+44/223: 2017-02-23: Added=CBOE, Removed=PBI
+  Holding Period End Date: 2017-03-14
+  ✓ S1: CBOE 13.89%, Portfolio: $1,827,264
+  ✓ S2: Long CBOE (6.38%), Short PBI (3.52%)
+      Combined: 4.95%, Portfolio: $976,188
+
+45/223: 2017-02-23: Added=REG, Removed=ENDP
+  Holding Period End Date: 2017-03-14
+  ✗ S1: Error processing REG: cannot convert the series to <class 'float'>
+    Warning: No data found for ENDP
+  ✗ S2: Insufficient data for REG/ENDP
+
+46/223: 2017-03-06: Added=DISH, Removed=LLTC
+  Holding Period End Date: 2017-03-23
+  ✓ S1: DISH 8.44%, Portfolio: $1,981,410
+  ✓ S2: Long DISH (-6.11%), Short LLTC (6.51%)
+      Combined: 0.20%, Portfolio: $978,129
+
+47/223: 2017-03-10: Added=ARE, Removed=FSLR
+  Holding Period End Date: 2017-03-29
+  ✗ S1: Error processing ARE: cannot convert the series to <class 'float'>
+    YFinance output for ARE: 1 Failed download:
+['APC']: YFTzMissingError('possibly delisted; no timezone found')
+  ✓ S2: Long ARE (-1.30%), Short FSLR (-1.12%)
+      Combined: -1.21%, Portfolio: $966,285
+
+48/223: 2017-03-10: Added=RJF, Removed=FTR
+  Holding Period End Date: 2017-03-29
+  ✓ S1: RJF 2.30%, Portfolio: $2,026,900
+  ✓ S2: Long RJF (-0.25%), Short FTR (-1.31%)
+      Combined: -0.78%, Portfolio: $958,736
+
+49/223: 2017-03-10: Added=AMD, Removed=URBN
+  Holding Period End Date: 2017-03-29
+  ✓ S1: AMD 7.02%, Portfolio: $2,169,210
+    Warning: No data found for AMD
+  ✗ S2: Insufficient data for AMD/URBN
+
+50/223: 2017-03-13: Added=SNPS, Removed=HAR
+  Holding Period End Date: 2017-03-30
+  ✓ S1: SNPS -0.64%, Portfolio: $2,155,288
+    Warning: No data found for SNPS
+  ✗ S2: Insufficient data for SNPS/HAR
+
+51/223: 2017-03-28: Added=DXC, Removed=SWN
+  Holding Period End Date: 2017-04-17
+  ✓ S1: DXC 6.78%, Portfolio: $2,301,500
+    Error fetching SWN: 'LVS'
+  ✗ S2: Insufficient data for DXC/SWN
+
+52/223: 2017-03-29: Added=IT, Removed=DNB
+  Holding Period End Date: 2017-04-18
+  ✓ S1: IT -4.13%, Portfolio: $2,206,507
+  ✗ S2: Error processing IT/DNB: cannot convert the series to <class 'float'>
+
+53/223: 2017-05-24: Added=INFO, Removed=TGNA
+  Holding Period End Date: 2017-06-13
+  ✓ S1: INFO 4.81%, Portfolio: $2,312,644
+  ✓ S2: Long INFO (-8.54%), Short TGNA (7.81%)
+      Combined: -0.36%, Portfolio: $955,262
+
+54/223: 2017-06-09: Added=ANSS, Removed=R
+  Holding Period End Date: 2017-06-28
+  ✓ S1: ANSS -7.25%, Portfolio: $2,145,086
+  ✓ S2: Long ANSS (2.26%), Short R (-4.10%)
+      Combined: -0.92%, Portfolio: $946,486
+
+55/223: 2017-06-09: Added=ALGN, Removed=TDC
+  Holding Period End Date: 2017-06-28
+  ✓ S1: ALGN 0.98%, Portfolio: $2,166,163
+  ✓ S2: Long ALGN (-1.69%), Short TDC (-2.48%)
+      Combined: -2.08%, Portfolio: $926,765
+
+56/223: 2017-06-09: Added=HLT, Removed=YHOO
+  Holding Period End Date: 2017-06-28
+    Warning: No data found for HLT
+  ✗ S1: Insufficient data for HLT
+    Warning: No data found for YHOO
+  ✗ S2: Insufficient data for HLT/YHOO
+
+57/223: 2017-06-12: Added=RE, Removed=MJN
+  Holding Period End Date: 2017-06-29
+  ✓ S1: RE 5.13%, Portfolio: $2,277,355
+  ✓ S2: Long RE (4.71%), Short MJN (-1.37%)
+      Combined: 1.67%, Portfolio: $942,273
+
+58/223: 2017-06-30: Added=BKR, Removed=BHI
+  Holding Period End Date: 2017-07-20
+  ✗ S1: Error processing BKR: cannot convert the series to <class 'float'>
+    Warning: No data found for BHI
+  ✗ S2: Insufficient data for BKR/BHI
+
+59/223: 2017-07-19: Added=MGM, Removed=RAI
+  Holding Period End Date: 2017-08-07
+  ✗ S1: Error processing MGM: cannot convert the series to <class 'float'>
+  ✗ S2: Error processing MGM/RAI: cannot convert the series to <class 'float'>
+
+60/223: 2017-07-19: Added=RMD, Removed=MNK
+  Holding Period End Date: 2017-08-07
+  ✗ S1: Error processing RMD: cannot convert the series to <class 'float'>
+  ✓ S2: Long RMD (5.05%), Short MNK (-2.99%)
+      Combined: 1.03%, Portfolio: $951,987
+
+61/223: 2017-07-19: Added=PKG, Removed=MUR
+  Holding Period End Date: 2017-08-07
+  ✓ S1: PKG 9.75%, Portfolio: $2,499,285
+  ✓ S2: Long PKG (-0.19%), Short MUR (-1.15%)
+      Combined: -0.67%, Portfolio: $945,619
+
+62/223: 2017-07-19: Added=AOS, Removed=BBBY
+  Holding Period End Date: 2017-08-07
+    Warning: No data found for AOS
+  ✗ S1: Insufficient data for AOS
+  ✓ S2: Long AOS (0.07%), Short BBBY (3.18%)
+      Combined: 1.62%, Portfolio: $960,942
+
+63/223: 2017-07-19: Added=DRE, Removed=RIG
+  Holding Period End Date: 2017-08-07
+  ✓ S1: DRE -3.08%, Portfolio: $2,422,373
+    Warning: No data found for DRE
+  ✗ S2: Insufficient data for DRE/RIG
+
+64/223: 2017-07-31: Added=BHF, Removed=AN
+  Holding Period End Date: 2017-08-17
+  ✓ S1: BHF 0.74%, Portfolio: $2,440,205
+  ✗ S2: Error processing BHF/AN: cannot convert the series to <class 'float'>
+
+65/223: 2017-08-24: Added=Q, Removed=WFM
+  Holding Period End Date: 2017-09-13
+  ✓ S1: Q -1.31%, Portfolio: $2,408,212
+  ✓ S2: Long Q (8.53%), Short WFM (44.06%)
+      Combined: 26.30%, Portfolio: $1,213,651
+
+66/223: 2017-08-24: Added=SBAC, Removed=DD
+  Holding Period End Date: 2017-09-13
+  ✗ S1: Error processing SBAC: cannot convert the series to <class 'float'>
+    Warning: No data found for SBAC
+  ✗ S2: Insufficient data for SBAC/DD
+
+67/223: 2017-08-24: Added=DWDP, Removed=DOW
+  Holding Period End Date: 2017-09-13
+  ✓ S1: DWDP 3.76%, Portfolio: $2,498,777
+    YFinance output for DWDP: 1 Failed download:
+['XEC']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['XEC']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['XEC']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['XEC']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for DWDP
+  ✗ S2: Insufficient data for DWDP/DOW
+
+68/223: 2017-08-24: Added=CDNS, Removed=SPLS
+  Holding Period End Date: 2017-09-13
+    YFinance output for CDNS: 1 Failed download:
+['VIAB']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VIAB']: YFTzMissingError('possibly delisted; no timezone found')
+  ✗ S1: Error processing CDNS: cannot convert the series to <class 'float'>
+    Warning: No data found for SPLS
+  ✗ S2: Insufficient data for CDNS/SPLS
+
+69/223: 2017-10-04: Added=NCLH, Removed=LVLT
+  Holding Period End Date: 2017-10-23
+    Warning: No data found for NCLH
+  ✗ S1: Insufficient data for NCLH
+  ✓ S2: Long NCLH (9.48%), Short LVLT (8.59%)
+      Combined: 9.04%, Portfolio: $1,323,338
+
+70/223: 2017-12-28: Added=HII, Removed=BCR
+  Holding Period End Date: 2018-01-18
+  ✓ S1: HII 3.89%, Portfolio: $2,595,854
+    Warning: No data found for BCR
+  ✗ S2: Insufficient data for HII/BCR
+
+71/223: 2018-03-02: Added=IPGP, Removed=SNI
+  Holding Period End Date: 2018-03-21
+  ✗ S1: Error processing IPGP: cannot convert the series to <class 'float'>
+    Warning: No data found for IPGP
+  ✗ S2: Insufficient data for IPGP/SNI
+
+72/223: 2018-03-09: Added=TTWO, Removed=SIG
+  Holding Period End Date: 2018-03-28
+  ✓ S1: TTWO -6.60%, Portfolio: $2,424,528
+    Warning: No data found for TTWO
+  ✗ S2: Insufficient data for TTWO/SIG
+
+73/223: 2018-03-09: Added=NKTR, Removed=CHK
+  Holding Period End Date: 2018-03-28
+  ✓ S1: NKTR -0.14%, Portfolio: $2,421,213
+  ✓ S2: Long NKTR (-0.08%), Short CHK (6.27%)
+      Combined: 3.09%, Portfolio: $1,364,292
+
+74/223: 2018-03-09: Added=SIVB, Removed=PDCO
+  Holding Period End Date: 2018-03-28
+  ✓ S1: SIVB -29.01%, Portfolio: $1,718,838
+    Warning: No data found for PDCO
+  ✗ S2: Insufficient data for SIVB/PDCO
+
+75/223: 2018-03-28: Added=MSCI, Removed=CSRA
+  Holding Period End Date: 2018-04-17
+    YFinance output for MSCI: 1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGN']: YFTzMissingError('possibly delisted; no timezone found')
+  ✓ S1: MSCI 1.00%, Portfolio: $1,736,105
+  ✗ S2: Error processing MSCI/CSRA: cannot convert the series to <class 'float'>
+
+76/223: 2018-05-25: Added=ABMD, Removed=WYN
+  Holding Period End Date: 2018-06-14
+  ✓ S1: ABMD -18.90%, Portfolio: $1,408,006
+  ✓ S2: Long ABMD (-2.79%), Short WYN (0.27%)
+      Combined: -1.26%, Portfolio: $1,347,074
+
+77/223: 2018-05-31: Added=EVRG, Removed=NAVI
+  Holding Period End Date: 2018-06-19
+  ✗ S1: Error processing EVRG: cannot convert the series to <class 'float'>
+  ✓ S2: Long EVRG (1.51%), Short NAVI (27.01%)
+      Combined: 14.26%, Portfolio: $1,539,221
+
+78/223: 2018-06-04: Added=TWTR, Removed=MON
+  Holding Period End Date: 2018-06-21
+  ✗ S1: Error processing TWTR: cannot convert the series to <class 'float'>
+  ✓ S2: Long TWTR (-3.38%), Short MON (3.27%)
+      Combined: -0.05%, Portfolio: $1,538,387
+
+79/223: 2018-06-08: Added=HFC, Removed=AYI
+  Holding Period End Date: 2018-06-27
+  ✓ S1: HFC -8.93%, Portfolio: $1,282,312
+  ✓ S2: Long HFC (5.97%), Short AYI (-0.65%)
+      Combined: 2.66%, Portfolio: $1,579,295
+
+80/223: 2018-06-08: Added=BR, Removed=RRC
+  Holding Period End Date: 2018-06-27
+    YFinance output for BR: 1 Failed download:
+['ARNC']: YFTzMissingError('possibly delisted; no timezone found')
+  ✗ S1: Error processing BR: cannot convert the series to <class 'float'>
+    Warning: No data found for RRC
+  ✗ S2: Insufficient data for BR/RRC
+
+81/223: 2018-06-15: Added=FLT, Removed=TWX
+  Holding Period End Date: 2018-07-05
+  ✓ S1: FLT 1.48%, Portfolio: $1,301,282
+  ✓ S2: Long FLT (-4.92%), Short TWX (2.47%)
+      Combined: -1.22%, Portfolio: $1,559,969
+
+82/223: 2018-06-25: Added=CPRT, Removed=DPS
+  Holding Period End Date: 2018-07-13
+    YFinance output for CPRT: 2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+
+2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+
+2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+
+2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+
+2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+
+2 Failed downloads:
+['ADS', 'CHK']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for CPRT
+  ✗ S1: Insufficient data for CPRT
+  ✓ S2: Long CPRT (-2.13%), Short DPS (-9.06%)
+      Combined: -5.60%, Portfolio: $1,472,672
+
+83/223: 2018-08-23: Added=ANET, Removed=GGP
+  Holding Period End Date: 2018-09-12
+  ✓ S1: ANET 9.97%, Portfolio: $1,430,977
+  ✓ S2: Long ANET (-4.78%), Short GGP (0.29%)
+      Combined: -2.25%, Portfolio: $1,439,554
+
+84/223: 2018-09-11: Added=WCG, Removed=XL
+  Holding Period End Date: 2018-09-28
+  ✗ S1: Error processing WCG: cannot convert the series to <class 'float'>
+  ✓ S2: Long WCG (-2.40%), Short XL (29.89%)
+      Combined: 13.75%, Portfolio: $1,637,422
+
+85/223: 2018-09-25: Added=ROL, Removed=ANDV
+  Holding Period End Date: 2018-10-12
+    Warning: No data found for ROL
+  ✗ S1: Insufficient data for ROL
+  ✓ S2: Long ROL (-5.70%), Short ANDV (1.77%)
+      Combined: -1.97%, Portfolio: $1,605,225
+
+86/223: 2018-10-04: Added=FTNT, Removed=EVHC
+  Holding Period End Date: 2018-10-23
+    Warning: No data found for FTNT
+  ✗ S1: Insufficient data for FTNT
+  ✓ S2: Long FTNT (-0.48%), Short EVHC (3.80%)
+      Combined: 1.66%, Portfolio: $1,631,903
+
+87/223: 2018-10-30: Added=KEYS, Removed=CA
+  Holding Period End Date: 2018-11-16
+    Warning: No data found for KEYS
+  ✗ S1: Insufficient data for KEYS
+  ✗ S2: Error processing KEYS/CA: cannot convert the series to <class 'float'>
+
+88/223: 2018-11-07: Added=JKHY, Removed=EQT
+  Holding Period End Date: 2018-11-27
+  ✓ S1: JKHY -3.77%, Portfolio: $1,377,048
+  ✗ S2: Error processing JKHY/EQT: cannot convert the series to <class 'float'>
+
+89/223: 2018-11-26: Added=FANG, Removed=SRCL
+  Holding Period End Date: 2018-12-14
+    Warning: No data found for FANG
+  ✗ S1: Insufficient data for FANG
+    YFinance output for FANG: 1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTLT']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for FANG
+  ✗ S2: Insufficient data for FANG/SRCL
+
+90/223: 2018-11-26: Added=MXIM, Removed=AET
+  Holding Period End Date: 2018-12-14
+  ✓ S1: MXIM -2.89%, Portfolio: $1,337,278
+  ✗ S2: Insufficient data for MXIM/AET
+
+91/223: 2018-11-26: Added=LW, Removed=COL
+  Holding Period End Date: 2018-12-14
+    Warning: No data found for LW
+  ✗ S1: Insufficient data for LW
+  ✓ S2: Long LW (-1.24%), Short COL (2.16%)
+      Combined: 0.46%, Portfolio: $1,639,424
+
+92/223: 2018-12-27: Added=CE, Removed=ESRX
+  Holding Period End Date: 2019-01-16
+  ✓ S1: CE 0.65%, Portfolio: $1,345,983
+  ✗ S2: Error processing CE/ESRX: cannot convert the series to <class 'float'>
+
+93/223: 2018-12-27: Added=FRC, Removed=SCG
+  Holding Period End Date: 2019-01-16
+  ✓ S1: FRC 1.37%, Portfolio: $1,364,455
+  ✓ S2: Long FRC (2.10%), Short SCG (10.10%)
+      Combined: 6.10%, Portfolio: $1,739,412
+
+94/223: 2019-01-15: Added=TFX, Removed=PCG
+  Holding Period End Date: 2019-02-04
+  ✓ S1: TFX 0.46%, Portfolio: $1,370,666
+    Warning: No data found for PCG
+  ✗ S2: Insufficient data for TFX/PCG
+
+95/223: 2019-02-08: Added=ATO, Removed=NFX
+  Holding Period End Date: 2019-02-28
+  ✓ S1: ATO -1.67%, Portfolio: $1,347,744
+    Warning: No data found for ATO
+  ✗ S2: Insufficient data for ATO/NFX
+
+96/223: 2019-02-21: Added=WAB, Removed=GT
+  Holding Period End Date: 2019-03-12
+  ✓ S1: WAB 1.42%, Portfolio: $1,366,937
+  ✓ S2: Long WAB (3.96%), Short GT (-1.21%)
+      Combined: 1.37%, Portfolio: $1,763,296
+
+97/223: 2019-03-14: Added=FOXA, Removed=FOXA
+  Holding Period End Date: 2019-04-02
+  ✓ S1: FOXA 7.53%, Portfolio: $1,469,818
+    Warning: No data found for FOXA
+  ✗ S2: Insufficient data for FOXA/FOXA
+
+98/223: 2019-03-14: Added=FOX, Removed=FOX
+  Holding Period End Date: 2019-04-02
+  ✓ S1: FOX -12.40%, Portfolio: $1,287,515
+    Warning: No data found for FOX
+  ✗ S2: Insufficient data for FOX/FOX
+
+99/223: 2019-03-26: Added=DOW, Removed=BHF
+  Holding Period End Date: 2019-04-12
+    YFinance output for DOW: 1 Failed download:
+['MXIM']: YFTzMissingError('possibly delisted; no timezone found')
+  ✓ S1: DOW 16.63%, Portfolio: $1,501,567
+  ✓ S2: Long DOW (-16.80%), Short BHF (-3.69%)
+      Combined: -10.24%, Portfolio: $1,582,702
+
+100/223: 2019-05-28: Added=CTVA, Removed=FLR
+  Holding Period End Date: 2019-06-14
+    Warning: No data found for CTVA
+  ✗ S1: Insufficient data for CTVA
+    Error fetching CTVA: 'TER'
+  ✗ S2: Insufficient data for CTVA/FLR
+
+101/223: 2019-05-28: Added=DD, Removed=DWDP
+  Holding Period End Date: 2019-06-14
+    Warning: No data found for DD
+  ✗ S1: Insufficient data for DD
+  ✓ S2: Long DD (1.47%), Short DWDP (4.22%)
+      Combined: 2.84%, Portfolio: $1,627,689
+
+102/223: 2019-06-03: Added=BMS, Removed=MAT
+  Holding Period End Date: 2019-06-20
+  ✓ S1: BMS -18.98%, Portfolio: $1,216,598
+  ✗ S2: Error processing BMS/MAT: cannot convert the series to <class 'float'>
+
+103/223: 2019-06-03: Added=AMCR, Removed=BMS
+  Holding Period End Date: 2019-06-20
+  ✗ S1: Error processing AMCR: cannot convert the series to <class 'float'>
+    Error fetching AMCR: can't start new thread
+    Error fetching BMS: can't start new thread
+  ✗ S2: Insufficient data for AMCR/BMS
+
+104/223: 2019-06-24: Added=MKTX, Removed=LLL
+  Holding Period End Date: 2019-07-12
+    Error fetching MKTX: can't start new thread
+  ✗ S1: Insufficient data for MKTX
+    Error fetching MKTX: can't start new thread
+    Error fetching LLL: can't start new thread
+  ✗ S2: Insufficient data for MKTX/LLL
+
+105/223: 2019-07-09: Added=TMUS, Removed=RHT
+  Holding Period End Date: 2019-07-26
+    Error fetching TMUS: can't start new thread
+  ✗ S1: Insufficient data for TMUS
+    Error fetching TMUS: can't start new thread
+    Error fetching RHT: can't start new thread
+  ✗ S2: Insufficient data for TMUS/RHT
+
+106/223: 2019-08-01: Added=IEX, Removed=FL
+  Holding Period End Date: 2019-08-20
+    Error fetching IEX: can't start new thread
+  ✗ S1: Insufficient data for IEX
+    Error fetching IEX: can't start new thread
+    Error fetching FL: can't start new thread
+  ✗ S2: Insufficient data for IEX/FL
+
+107/223: 2019-08-01: Added=LDOS, Removed=APC
+  Holding Period End Date: 2019-08-20
+    Warning: No data found for LDOS
+  ✗ S1: Insufficient data for LDOS
+    Warning: No data found for LDOS
+    Error fetching APC: can't start new thread
+  ✗ S2: Insufficient data for LDOS/APC
+
+108/223: 2019-09-17: Added=CDW, Removed=TSS
+  Holding Period End Date: 2019-10-04
+    Error fetching CDW: can't start new thread
+  ✗ S1: Insufficient data for CDW
+    Error fetching CDW: can't start new thread
+    Error fetching TSS: can't start new thread
+  ✗ S2: Insufficient data for CDW/TSS
+
+109/223: 2019-09-20: Added=NVR, Removed=JEF
+  Holding Period End Date: 2019-10-09
+    Error fetching NVR: can't start new thread
+  ✗ S1: Insufficient data for NVR
+    Error fetching NVR: can't start new thread
+    Error fetching JEF: can't start new thread
+  ✗ S2: Insufficient data for NVR/JEF
+
+110/223: 2019-09-20: Added=LVS, Removed=NKTR
+  Holding Period End Date: 2019-10-09
+    Warning: No data found for LVS
+  ✗ S1: Insufficient data for LVS
+    Error fetching LVS: can't start new thread
+    Warning: No data found for NKTR
+  ✗ S2: Insufficient data for LVS/NKTR
+
+111/223: 2019-11-18: Added=NOW, Removed=CELG
+  Holding Period End Date: 2019-12-06
+    Warning: No data found for NOW
+  ✗ S1: Insufficient data for NOW
+    Error fetching NOW: can't start new thread
+    Error fetching CELG: can't start new thread
+  ✗ S2: Insufficient data for NOW/CELG
+
+112/223: 2019-11-27: Added=WRB, Removed=VIAB
+  Holding Period End Date: 2019-12-17
+    Warning: No data found for WRB
+  ✗ S1: Insufficient data for WRB
+    Warning: No data found for WRB
+    Error fetching VIAB: can't start new thread
+  ✗ S2: Insufficient data for WRB/VIAB
+
+113/223: 2019-12-02: Added=ODFL, Removed=STI
+  Holding Period End Date: 2019-12-19
+    Error fetching ODFL: can't start new thread
+  ✗ S1: Insufficient data for ODFL
+    YFinance output for ODFL: 1 Failed download:
+['TSLA']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for ODFL
+    Error fetching STI: can't start new thread
+  ✗ S2: Insufficient data for ODFL/STI
+
+114/223: 2019-12-13: Added=ZBRA, Removed=TRIP
+  Holding Period End Date: 2020-01-03
+    Error fetching ZBRA: can't start new thread
+  ✗ S1: Insufficient data for ZBRA
+    Error fetching ZBRA: can't start new thread
+    Error fetching TRIP: can't start new thread
+  ✗ S2: Insufficient data for ZBRA/TRIP
+
+115/223: 2019-12-13: Added=LYV, Removed=AMG
+  Holding Period End Date: 2020-01-03
+    Warning: No data found for LYV
+  ✗ S1: Insufficient data for LYV
+    Warning: No data found for LYV
+    Error fetching AMG: can't start new thread
+  ✗ S2: Insufficient data for LYV/AMG
+
+116/223: 2019-12-13: Added=STE, Removed=MAC
+  Holding Period End Date: 2020-01-03
+    Warning: No data found for STE
+  ✗ S1: Insufficient data for STE
+    Error fetching MAC: can't start new thread
+  ✗ S2: Insufficient data for STE/MAC
+
+117/223: 2020-01-22: Added=PAYC, Removed=WCG
+  Holding Period End Date: 2020-02-10
+    Warning: No data found for PAYC
+  ✗ S1: Insufficient data for PAYC
+    Error fetching PAYC: can't start new thread
+  ✗ S2: Insufficient data for PAYC/WCG
+
+118/223: 2020-02-27: Added=IR, Removed=XEC
+  Holding Period End Date: 2020-03-17
+    YFinance output for IR: 1 Failed download:
+['NXPI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['NXPI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['NXPI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for IR
+  ✗ S1: Insufficient data for IR
+    Error fetching IR: can't start new thread
+    Error fetching XEC: can't start new thread
+  ✗ S2: Insufficient data for IR/XEC
+
+119/223: 2020-03-31: Added=nan, Removed=M
+  Holding Period End Date: 2020-04-20
+
+120/223: 2020-03-31: Added=nan, Removed=RTN
+  Holding Period End Date: 2020-04-20
+
+121/223: 2020-03-31: Added=CARR, Removed=nan
+  Holding Period End Date: 2020-04-20
+  ✓ S1: CARR -11.23%, Portfolio: $1,079,970
+
+122/223: 2020-03-31: Added=OTIS, Removed=nan
+  Holding Period End Date: 2020-04-20
+    Error fetching OTIS: can't start new thread
+  ✗ S1: Insufficient data for OTIS
+
+123/223: 2020-05-05: Added=HWM, Removed=ARNC
+  Holding Period End Date: 2020-05-22
+    Error fetching HWM: can't start new thread
+  ✗ S1: Insufficient data for HWM
+    Warning: No data found for HWM
+    Warning: No data found for ARNC
+  ✗ S2: Insufficient data for HWM/ARNC
+
+124/223: 2020-05-06: Added=DXCM, Removed=AGN
+  Holding Period End Date: 2020-05-26
+    Warning: No data found for DXCM
+  ✗ S1: Insufficient data for DXCM
+    Error fetching DXCM: can't start new thread
+    Warning: No data found for AGN
+  ✗ S2: Insufficient data for DXCM/AGN
+
+125/223: 2020-05-06: Added=DPZ, Removed=CPRI
+  Holding Period End Date: 2020-05-26
+    Warning: No data found for DPZ
+  ✗ S1: Insufficient data for DPZ
+    Error fetching DPZ: can't start new thread
+    Error fetching CPRI: can't start new thread
+  ✗ S2: Insufficient data for DPZ/CPRI
+
+126/223: 2020-05-18: Added=WST, Removed=HP
+  Holding Period End Date: 2020-06-05
+  ✓ S1: WST 10.12%, Portfolio: $1,189,279
+    Error fetching WST: can't start new thread
+    Error fetching HP: can't start new thread
+  ✗ S2: Insufficient data for WST/HP
+
+127/223: 2020-06-12: Added=BIO, Removed=ADS
+  Holding Period End Date: 2020-07-01
+    Warning: No data found for BIO
+  ✗ S1: Insufficient data for BIO
+    Warning: No data found for BIO
+  ✗ S2: Insufficient data for BIO/ADS
+
+128/223: 2020-06-12: Added=TDY, Removed=HOG
+  Holding Period End Date: 2020-07-01
+    Error fetching TDY: can't start new thread
+  ✗ S1: Insufficient data for TDY
+  ✓ S2: Long TDY (-5.80%), Short HOG (4.88%)
+      Combined: -0.46%, Portfolio: $1,620,197
+
+129/223: 2020-06-12: Added=TYL, Removed=JWN
+  Holding Period End Date: 2020-07-01
+    Warning: No data found for TYL
+  ✗ S1: Insufficient data for TYL
+    Warning: No data found for TYL
+    Error fetching JWN: can't start new thread
+  ✗ S2: Insufficient data for TYL/JWN
+
+130/223: 2020-09-04: Added=CTLT, Removed=KSS
+  Holding Period End Date: 2020-09-24
+    Error fetching CTLT: can't start new thread
+  ✗ S1: Insufficient data for CTLT
+    Error fetching CTLT: can't start new thread
+    Error fetching KSS: can't start new thread
+  ✗ S2: Insufficient data for CTLT/KSS
+
+131/223: 2020-09-04: Added=ETSY, Removed=HRB
+  Holding Period End Date: 2020-09-24
+    Error fetching ETSY: can't start new thread
+  ✗ S1: Insufficient data for ETSY
+    Warning: No data found for ETSY
+    Error fetching HRB: can't start new thread
+  ✗ S2: Insufficient data for ETSY/HRB
+
+132/223: 2020-09-04: Added=TER, Removed=COTY
+  Holding Period End Date: 2020-09-24
+    Warning: No data found for TER
+  ✗ S1: Insufficient data for TER
+    Error fetching COTY: can't start new thread
+  ✗ S2: Insufficient data for TER/COTY
+
+133/223: 2020-10-01: Added=POOL, Removed=ETFC
+  Holding Period End Date: 2020-10-20
+    Error fetching POOL: can't start new thread
+  ✗ S1: Insufficient data for POOL
+    Warning: No data found for ETFC
+  ✗ S2: Insufficient data for POOL/ETFC
+
+134/223: 2020-10-05: Added=VNT, Removed=nan
+  Holding Period End Date: 2020-10-22
+    Warning: No data found for VNT
+  ✗ S1: Insufficient data for VNT
+
+135/223: 2020-10-05: Added=nan, Removed=NBL
+  Holding Period End Date: 2020-10-22
+
+136/223: 2020-12-11: Added=TSLA, Removed=AIV
+  Holding Period End Date: 2020-12-31
+    Error fetching TSLA: can't start new thread
+  ✗ S1: Insufficient data for TSLA
+    Warning: No data found for TSLA
+    Error fetching AIV: can't start new thread
+  ✗ S2: Insufficient data for TSLA/AIV
+
+137/223: 2020-12-30: Added=ENPH, Removed=TIF
+  Holding Period End Date: 2021-01-20
+    Warning: No data found for ENPH
+  ✗ S1: Insufficient data for ENPH
+    Warning: No data found for ENPH
+    Error fetching TIF: can't start new thread
+  ✗ S2: Insufficient data for ENPH/TIF
+
+138/223: 2021-01-15: Added=TRMB, Removed=CXO
+  Holding Period End Date: 2021-02-04
+    Error fetching TRMB: can't start new thread
+  ✗ S1: Insufficient data for TRMB
+    Error fetching TRMB: can't start new thread
+    Error fetching CXO: can't start new thread
+  ✗ S2: Insufficient data for TRMB/CXO
+
+139/223: 2021-02-08: Added=MPWR, Removed=FTI
+  Holding Period End Date: 2021-02-26
+    Error fetching MPWR: can't start new thread
+  ✗ S1: Insufficient data for MPWR
+    Error fetching MPWR: can't start new thread
+    Warning: No data found for FTI
+  ✗ S2: Insufficient data for MPWR/FTI
+
+140/223: 2021-03-12: Added=CZR, Removed=VNT
+  Holding Period End Date: 2021-03-31
+    Warning: No data found for CZR
+  ✗ S1: Insufficient data for CZR
+    Warning: No data found for CZR
+    YFinance output for VNT: 1 Failed download:
+['FLIR']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for VNT
+  ✗ S2: Insufficient data for CZR/VNT
+
+141/223: 2021-03-12: Added=PENN, Removed=SLG
+  Holding Period End Date: 2021-03-31
+    Error fetching PENN: can't start new thread
+  ✗ S1: Insufficient data for PENN
+    Error fetching PENN: can't start new thread
+    Warning: No data found for SLG
+  ✗ S2: Insufficient data for PENN/SLG
+
+142/223: 2021-03-12: Added=NXPI, Removed=FLS
+  Holding Period End Date: 2021-03-31
+    Error fetching NXPI: can't start new thread
+  ✗ S1: Insufficient data for NXPI
+    Error fetching NXPI: can't start new thread
+    Error fetching FLS: can't start new thread
+  ✗ S2: Insufficient data for NXPI/FLS
+
+143/223: 2021-03-12: Added=GNRC, Removed=XRX
+  Holding Period End Date: 2021-03-31
+    Warning: No data found for GNRC
+  ✗ S1: Insufficient data for GNRC
+    Error fetching GNRC: can't start new thread
+    Error fetching XRX: can't start new thread
+  ✗ S2: Insufficient data for GNRC/XRX
+
+144/223: 2021-04-15: Added=PTC, Removed=VAR
+  Holding Period End Date: 2021-05-04
+    Error fetching PTC: can't start new thread
+  ✗ S1: Insufficient data for PTC
+    Error fetching PTC: can't start new thread
+    Error fetching VAR: can't start new thread
+  ✗ S2: Insufficient data for PTC/VAR
+
+145/223: 2021-05-10: Added=CRL, Removed=FLIR
+  Holding Period End Date: 2021-05-27
+    Error fetching CRL: can't start new thread
+  ✗ S1: Insufficient data for CRL
+    Error fetching CRL: can't start new thread
+    Error fetching FLIR: can't start new thread
+  ✗ S2: Insufficient data for CRL/FLIR
+
+146/223: 2021-05-27: Added=OGN, Removed=nan
+  Holding Period End Date: 2021-06-16
+    Warning: No data found for OGN
+  ✗ S1: Insufficient data for OGN
+
+147/223: 2021-05-27: Added=nan, Removed=HFC
+  Holding Period End Date: 2021-06-16
+
+148/223: 2021-07-15: Added=MRNA, Removed=ALXN
+  Holding Period End Date: 2021-08-03
+    Warning: No data found for MRNA
+  ✗ S1: Insufficient data for MRNA
+    Error fetching MRNA: can't start new thread
+    Error fetching ALXN: can't start new thread
+  ✗ S2: Insufficient data for MRNA/ALXN
+
+149/223: 2021-08-24: Added=TECH, Removed=MXIM
+  Holding Period End Date: 2021-09-13
+    Error fetching TECH: can't start new thread
+  ✗ S1: Insufficient data for TECH
+    Error fetching TECH: can't start new thread
+    Error fetching MXIM: can't start new thread
+  ✗ S2: Insufficient data for TECH/MXIM
+
+150/223: 2021-09-03: Added=BRO, Removed=NOV
+  Holding Period End Date: 2021-09-23
+    Error fetching BRO: can't start new thread
+  ✗ S1: Insufficient data for BRO
+    Error fetching BRO: can't start new thread
+    Error fetching NOV: can't start new thread
+  ✗ S2: Insufficient data for BRO/NOV
+
+151/223: 2021-09-03: Added=CDAY, Removed=UNM
+  Holding Period End Date: 2021-09-23
+    Error fetching CDAY: can't start new thread
+  ✗ S1: Insufficient data for CDAY
+    Error fetching CDAY: can't start new thread
+    Error fetching UNM: can't start new thread
+  ✗ S2: Insufficient data for CDAY/UNM
+
+152/223: 2021-09-03: Added=MTCH, Removed=PRGO
+  Holding Period End Date: 2021-09-23
+    Warning: No data found for MTCH
+  ✗ S1: Insufficient data for MTCH
+    Warning: No data found for MTCH
+    Warning: No data found for PRGO
+  ✗ S2: Insufficient data for MTCH/PRGO
+
+153/223: 2021-12-03: Added=FDS, Removed=WU
+  Holding Period End Date: 2021-12-22
+    Error fetching FDS: can't start new thread
+  ✗ S1: Insufficient data for FDS
+    Error fetching FDS: can't start new thread
+    Error fetching WU: can't start new thread
+  ✗ S2: Insufficient data for FDS/WU
+
+154/223: 2021-12-03: Added=SEDG, Removed=HBI
+  Holding Period End Date: 2021-12-22
+    Error fetching SEDG: can't start new thread
+  ✗ S1: Insufficient data for SEDG
+    Warning: No data found for SEDG
+    Error fetching HBI: can't start new thread
+  ✗ S2: Insufficient data for SEDG/HBI
+
+155/223: 2021-12-03: Added=SBNY, Removed=LEG
+  Holding Period End Date: 2021-12-22
+  ✗ S1: Error processing SBNY: cannot convert the series to <class 'float'>
+    YFinance output for SBNY: Failed to get ticker 'XLNX' reason: Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+1 Failed download:
+['XLNX']: YFTzMissingError('possibly delisted; no timezone found')
+    Warning: No data found for SBNY
+    Error fetching LEG: can't start new thread
+  ✗ S2: Insufficient data for SBNY/LEG
+
+156/223: 2021-12-07: Added=EPAM, Removed=KSU
+  Holding Period End Date: 2021-12-27
+    Warning: No data found for EPAM
+  ✗ S1: Insufficient data for EPAM
+    Warning: No data found for EPAM
+    YFinance output for KSU: 2 Failed downloads:
+['CDAY']: YFTzMissingError('possibly delisted; no timezone found')
+['MOH']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for KSU
+  ✗ S2: Insufficient data for EPAM/KSU
+
+157/223: 2022-01-26: Added=CEG, Removed=nan
+  Holding Period End Date: 2022-02-14
+    Warning: No data found for CEG
+  ✗ S1: Insufficient data for CEG
+
+158/223: 2022-01-26: Added=nan, Removed=GPS
+  Holding Period End Date: 2022-02-14
+
+159/223: 2022-02-10: Added=NDSN, Removed=XLNX
+  Holding Period End Date: 2022-03-02
+    YFinance output for NDSN: 1 Failed download:
+['INFO']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['INFO']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['INFO']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for NDSN
+  ✗ S1: Insufficient data for NDSN
+    Error fetching NDSN: can't start new thread
+    Error fetching XLNX: can't start new thread
+  ✗ S2: Insufficient data for NDSN/XLNX
+
+160/223: 2022-02-25: Added=MOH, Removed=INFO
+  Holding Period End Date: 2022-03-16
+    Error fetching MOH: can't start new thread
+  ✗ S1: Insufficient data for MOH
+    Error fetching MOH: can't start new thread
+    YFinance output for INFO: 1 Failed download:
+['CPT']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for INFO
+  ✗ S2: Insufficient data for MOH/INFO
+
+161/223: 2022-03-29: Added=CPT, Removed=PBCT
+  Holding Period End Date: 2022-04-18
+    Warning: No data found for CPT
+  ✗ S1: Insufficient data for CPT
+    Error fetching CPT: can't start new thread
+    Error fetching PBCT: can't start new thread
+  ✗ S2: Insufficient data for CPT/PBCT
+
+162/223: 2022-04-07: Added=WBD, Removed=DISCA
+  Holding Period End Date: 2022-04-27
+  ✓ S1: WBD 16.02%, Portfolio: $1,379,790
+    Error fetching WBD: can't start new thread
+    Error fetching DISCA: can't start new thread
+  ✗ S2: Insufficient data for WBD/DISCA
+
+163/223: 2022-04-07: Added=nan, Removed=DISCK
+  Holding Period End Date: 2022-04-27
+
+164/223: 2022-06-03: Added=VICI, Removed=CERN
+  Holding Period End Date: 2022-06-23
+    Warning: No data found for VICI
+  ✗ S1: Insufficient data for VICI
+    Error fetching VICI: can't start new thread
+    Error fetching CERN: can't start new thread
+  ✗ S2: Insufficient data for VICI/CERN
+
+165/223: 2022-06-03: Added=ON, Removed=IPGP
+  Holding Period End Date: 2022-06-23
+    Error fetching ON: can't start new thread
+  ✗ S1: Insufficient data for ON
+    Error fetching ON: can't start new thread
+    Error fetching IPGP: can't start new thread
+  ✗ S2: Insufficient data for ON/IPGP
+
+166/223: 2022-06-03: Added=KDP, Removed=UAA
+  Holding Period End Date: 2022-06-23
+    Error fetching KDP: can't start new thread
+  ✗ S1: Insufficient data for KDP
+    Error fetching KDP: can't start new thread
+    Error fetching UAA: can't start new thread
+  ✗ S2: Insufficient data for KDP/UAA
+
+167/223: 2022-06-03: Added=nan, Removed=UA
+  Holding Period End Date: 2022-06-23
+
+168/223: 2022-09-02: Added=CSGP, Removed=PVH
+  Holding Period End Date: 2022-09-22
+    Warning: No data found for CSGP
+  ✗ S1: Insufficient data for CSGP
+    YFinance output for CSGP: 1 Failed download:
+['VICI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for CSGP
+    Error fetching PVH: can't start new thread
+  ✗ S2: Insufficient data for CSGP/PVH
+
+169/223: 2022-09-02: Added=INVH, Removed=PENN
+  Holding Period End Date: 2022-09-22
+    Error fetching INVH: can't start new thread
+  ✗ S1: Insufficient data for INVH
+    Warning: No data found for INVH
+    Warning: No data found for PENN
+  ✗ S2: Insufficient data for INVH/PENN
+
+170/223: 2022-09-23: Added=PCG, Removed=CTXS
+  Holding Period End Date: 2022-10-12
+    YFinance output for PCG: 1 Failed download:
+['VICI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['VICI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['VICI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for PCG
+  ✗ S1: Insufficient data for PCG
+    YFinance output for PCG: 1 Failed download:
+['VICI']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for PCG
+    Warning: No data found for CTXS
+  ✗ S2: Insufficient data for PCG/CTXS
+
+171/223: 2022-09-23: Added=EQT, Removed=DRE
+  Holding Period End Date: 2022-10-12
+    Warning: No data found for EQT
+  ✗ S1: Insufficient data for EQT
+    Error fetching DRE: can't start new thread
+  ✗ S2: Insufficient data for EQT/DRE
+
+172/223: 2022-10-06: Added=TRGP, Removed=NLSN
+  Holding Period End Date: 2022-10-25
+    Error fetching TRGP: can't start new thread
+  ✗ S1: Insufficient data for TRGP
+    Error fetching TRGP: can't start new thread
+    Error fetching NLSN: can't start new thread
+  ✗ S2: Insufficient data for TRGP/NLSN
+
+173/223: 2022-10-27: Added=ACGL, Removed=TWTR
+  Holding Period End Date: 2022-11-15
+    Warning: No data found for ACGL
+  ✗ S1: Insufficient data for ACGL
+    Error fetching ACGL: can't start new thread
+    Error fetching TWTR: can't start new thread
+  ✗ S2: Insufficient data for ACGL/TWTR
+
+174/223: 2022-12-12: Added=FSLR, Removed=FBHS
+  Holding Period End Date: 2022-12-30
+    Error fetching FSLR: can't start new thread
+  ✗ S1: Insufficient data for FSLR
+    Error fetching FSLR: can't start new thread
+    Error fetching FBHS: can't start new thread
+  ✗ S2: Insufficient data for FSLR/FBHS
+
+175/223: 2022-12-12: Added=nan, Removed=MBC
+  Holding Period End Date: 2022-12-30
+
+176/223: 2022-12-12: Added=MBC, Removed=nan
+  Holding Period End Date: 2022-12-30
+    Error fetching MBC: can't start new thread
+  ✗ S1: Insufficient data for MBC
+
+177/223: 2022-12-19: Added=STLD, Removed=ABMD
+  Holding Period End Date: 2023-01-09
+    Warning: No data found for STLD
+  ✗ S1: Insufficient data for STLD
+    Warning: No data found for STLD
+    Error fetching ABMD: can't start new thread
+  ✗ S2: Insufficient data for STLD/ABMD
+
+178/223: 2022-12-28: Added=GEHC, Removed=nan
+  Holding Period End Date: 2023-01-18
+    YFinance output for GEHC: 1 Failed download:
+['KDP']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['KDP']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for GEHC
+  ✗ S1: Insufficient data for GEHC
+
+179/223: 2022-12-28: Added=nan, Removed=VNO
+  Holding Period End Date: 2023-01-18
+
+180/223: 2023-03-03: Added=FICO, Removed=LUMN
+  Holding Period End Date: 2023-03-22
+    Warning: No data found for FICO
+  ✗ S1: Insufficient data for FICO
+    Error fetching FICO: can't start new thread
+    Error fetching LUMN: can't start new thread
+  ✗ S2: Insufficient data for FICO/LUMN
+
+181/223: 2023-03-10: Added=PODD, Removed=SIVB
+  Holding Period End Date: 2023-03-29
+    Warning: No data found for PODD
+  ✗ S1: Insufficient data for PODD
+    Warning: No data found for PODD
+    Error fetching SIVB: can't start new thread
+  ✗ S2: Insufficient data for PODD/SIVB
+
+182/223: 2023-03-13: Added=BG, Removed=SBNY
+  Holding Period End Date: 2023-03-30
+    Error fetching BG: can't start new thread
+  ✗ S1: Insufficient data for BG
+    Error fetching BG: can't start new thread
+    Error fetching SBNY: can't start new thread
+  ✗ S2: Insufficient data for BG/SBNY
+
+183/223: 2023-05-01: Added=AXON, Removed=FRC
+  Holding Period End Date: 2023-05-18
+    Warning: No data found for AXON
+  ✗ S1: Insufficient data for AXON
+    Error fetching AXON: can't start new thread
+    Error fetching FRC: can't start new thread
+  ✗ S2: Insufficient data for AXON/FRC
+
+184/223: 2023-06-02: Added=PANW, Removed=DISH
+  Holding Period End Date: 2023-06-22
+    Error fetching PANW: can't start new thread
+  ✗ S1: Insufficient data for PANW
+    Error fetching PANW: can't start new thread
+    Error fetching DISH: can't start new thread
+  ✗ S2: Insufficient data for PANW/DISH
+
+185/223: 2023-08-21: Added=nan, Removed=TEL
+  Holding Period End Date: 2023-09-08
+
+186/223: 2023-08-21: Added=KVUE, Removed=AAP
+  Holding Period End Date: 2023-09-08
+    Error fetching KVUE: can't start new thread
+  ✗ S1: Insufficient data for KVUE
+    Error fetching KVUE: can't start new thread
+    Error fetching AAP: can't start new thread
+  ✗ S2: Insufficient data for KVUE/AAP
+
+187/223: 2023-08-21: Added=PCS, Removed=nan
+  Holding Period End Date: 2023-09-08
+    Warning: No data found for PCS
+  ✗ S1: Insufficient data for PCS
+
+188/223: 2023-09-14: Added=BX, Removed=LNC
+  Holding Period End Date: 2023-10-03
+  ✓ S1: BX -2.03%, Portfolio: $1,351,790
+    Warning: No data found for BX
+    Error fetching LNC: can't start new thread
+  ✗ S2: Insufficient data for BX/LNC
+
+189/223: 2023-09-14: Added=ABNB, Removed=NWL
+  Holding Period End Date: 2023-10-03
+    Error fetching ABNB: can't start new thread
+  ✗ S1: Insufficient data for ABNB
+    Error fetching ABNB: can't start new thread
+    Error fetching NWL: can't start new thread
+  ✗ S2: Insufficient data for ABNB/NWL
+
+190/223: 2023-09-28: Added=VLTO, Removed=nan
+  Holding Period End Date: 2023-10-17
+    Error fetching VLTO: can't start new thread
+  ✗ S1: Insufficient data for VLTO
+
+191/223: 2023-09-28: Added=nan, Removed=DXC
+  Holding Period End Date: 2023-10-17
+
+192/223: 2023-10-13: Added=LULU, Removed=ATVI
+  Holding Period End Date: 2023-11-01
+    Warning: No data found for LULU
+  ✗ S1: Insufficient data for LULU
+    Error fetching LULU: can't start new thread
+    Error fetching ATVI: can't start new thread
+  ✗ S2: Insufficient data for LULU/ATVI
+
+193/223: 2023-10-13: Added=HUBB, Removed=OGN
+  Holding Period End Date: 2023-11-01
+    Warning: No data found for HUBB
+  ✗ S1: Insufficient data for HUBB
+    YFinance output for HUBB: Failed to get ticker 'PXD' reason: Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+    Warning: No data found for HUBB
+    Error fetching OGN: can't start new thread
+  ✗ S2: Insufficient data for HUBB/OGN
+
+194/223: 2023-12-01: Added=UBER, Removed=SEE
+  Holding Period End Date: 2023-12-20
+    Error fetching UBER: can't start new thread
+  ✗ S1: Insufficient data for UBER
+    Error fetching UBER: can't start new thread
+    Error fetching SEE: can't start new thread
+  ✗ S2: Insufficient data for UBER/SEE
+
+195/223: 2023-12-01: Added=BLDR, Removed=SEDG
+  Holding Period End Date: 2023-12-20
+    Error fetching BLDR: can't start new thread
+  ✗ S1: Insufficient data for BLDR
+    Warning: No data found for BLDR
+    Error fetching SEDG: can't start new thread
+  ✗ S2: Insufficient data for BLDR/SEDG
+
+196/223: 2023-12-01: Added=JBL, Removed=ALK
+  Holding Period End Date: 2023-12-20
+    Warning: No data found for JBL
+  ✗ S1: Insufficient data for JBL
+    Error fetching JBL: can't start new thread
+    Warning: No data found for ALK
+  ✗ S2: Insufficient data for JBL/ALK
+
+197/223: 2024-03-01: Added=SMCI, Removed=WHR
+  Holding Period End Date: 2024-03-20
+    Error fetching SMCI: can't start new thread
+  ✗ S1: Insufficient data for SMCI
+    Error fetching SMCI: can't start new thread
+    Error fetching WHR: can't start new thread
+  ✗ S2: Insufficient data for SMCI/WHR
+
+198/223: 2024-03-01: Added=DECK, Removed=ZION
+  Holding Period End Date: 2024-03-20
+    Error fetching DECK: can't start new thread
+  ✗ S1: Insufficient data for DECK
+    Error fetching DECK: can't start new thread
+    Error fetching ZION: can't start new thread
+  ✗ S2: Insufficient data for DECK/ZION
+
+199/223: 2024-03-27: Added=SOLV, Removed=nan
+  Holding Period End Date: 2024-04-16
+    Error fetching SOLV: can't start new thread
+  ✗ S1: Insufficient data for SOLV
+
+200/223: 2024-03-27: Added=GEV, Removed=nan
+  Holding Period End Date: 2024-04-16
+    Error fetching GEV: can't start new thread
+  ✗ S1: Insufficient data for GEV
+
+201/223: 2024-03-27: Added=nan, Removed=XRAY
+  Holding Period End Date: 2024-04-16
+
+202/223: 2024-03-27: Added=nan, Removed=VFC
+  Holding Period End Date: 2024-04-16
+
+203/223: 2024-05-03: Added=VST, Removed=PXD
+  Holding Period End Date: 2024-05-22
+    Error fetching VST: can't start new thread
+  ✗ S1: Insufficient data for VST
+    Warning: No data found for VST
+    Error fetching PXD: can't start new thread
+  ✗ S2: Insufficient data for VST/PXD
+
+204/223: 2024-06-07: Added=KKR, Removed=RHI
+  Holding Period End Date: 2024-06-27
+    Error fetching KKR: can't start new thread
+  ✗ S1: Insufficient data for KKR
+    YFinance output for KKR: 1 Failed download:
+['STLD']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['STLD']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['STLD']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['STLD']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Error fetching RHI: can't start new thread
+  ✗ S2: Insufficient data for KKR/RHI
+
+205/223: 2024-06-07: Added=CRWD, Removed=CMA
+  Holding Period End Date: 2024-06-27
+    Error fetching CRWD: can't start new thread
+  ✗ S1: Insufficient data for CRWD
+    Warning: No data found for CRWD
+    Error fetching CMA: can't start new thread
+  ✗ S2: Insufficient data for CRWD/CMA
+
+206/223: 2024-06-07: Added=GDDY, Removed=ILMN
+  Holding Period End Date: 2024-06-27
+  ✓ S1: GDDY -9.75%, Portfolio: $1,219,985
+    Error fetching GDDY: can't start new thread
+    Error fetching ILMN: can't start new thread
+  ✗ S2: Insufficient data for GDDY/ILMN
+
+207/223: 2024-09-06: Added=ERIE, Removed=BIO
+  Holding Period End Date: 2024-09-25
+  ✓ S1: ERIE 4.24%, Portfolio: $1,271,676
+    Error fetching ERIE: can't start new thread
+    Error fetching BIO: can't start new thread
+  ✗ S2: Insufficient data for ERIE/BIO
+
+208/223: 2024-09-06: Added=DELL, Removed=ETSY
+  Holding Period End Date: 2024-09-25
+    YFinance output for DELL: 1 Failed download:
+['PENN']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['PENN']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['PENN']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+1 Failed download:
+['PENN']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+2 Failed downloads:
+['PENN', 'CSGP']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for DELL
+  ✗ S1: Insufficient data for DELL
+    Error fetching DELL: can't start new thread
+  ✗ S2: Insufficient data for DELL/ETSY
+
+209/223: 2024-09-06: Added=PLTR, Removed=AAL
+  Holding Period End Date: 2024-09-25
+    Error fetching PLTR: can't start new thread
+  ✗ S1: Insufficient data for PLTR
+    Error fetching PLTR: can't start new thread
+    Error fetching AAL: can't start new thread
+  ✗ S2: Insufficient data for PLTR/AAL
+
+210/223: 2024-09-24: Added=AMTM, Removed=nan
+  Holding Period End Date: 2024-10-11
+    Warning: No data found for AMTM
+  ✗ S1: Insufficient data for AMTM
+
+211/223: 2024-09-24: Added=nan, Removed=BBWI
+  Holding Period End Date: 2024-10-11
+
+212/223: 2024-11-21: Added=TPL, Removed=MRO
+  Holding Period End Date: 2024-12-11
+    Error fetching TPL: can't start new thread
+  ✗ S1: Insufficient data for TPL
+    Error fetching TPL: can't start new thread
+    Error fetching MRO: can't start new thread
+  ✗ S2: Insufficient data for TPL/MRO
+
+213/223: 2024-12-06: Added=WDAY, Removed=AMTM
+  Holding Period End Date: 2024-12-26
+    Error fetching WDAY: can't start new thread
+  ✗ S1: Insufficient data for WDAY
+    Error fetching WDAY: can't start new thread
+    Error fetching AMTM: can't start new thread
+  ✗ S2: Insufficient data for WDAY/AMTM
+
+214/223: 2024-12-06: Added=APO, Removed=QRVO
+  Holding Period End Date: 2024-12-26
+  ✓ S1: APO 4.40%, Portfolio: $1,327,610
+    Warning: No data found for APO
+    Error fetching QRVO: can't start new thread
+  ✗ S2: Insufficient data for APO/QRVO
+
+215/223: 2024-12-18: Added=LII, Removed=CTLT
+  Holding Period End Date: 2025-01-08
+    Error fetching LII: 'BG'
+  ✗ S1: Insufficient data for LII
+    Error fetching LII: can't start new thread
+    Error fetching CTLT: can't start new thread
+  ✗ S2: Insufficient data for LII/CTLT
+
+216/223: 2025-03-07: Added=EXE, Removed=FMC
+  Holding Period End Date: 2025-03-26
+  ✓ S1: EXE -1.25%, Portfolio: $1,311,044
+    Warning: No data found for EXE
+    Warning: No data found for FMC
+  ✗ S2: Insufficient data for EXE/FMC
+
+217/223: 2025-03-07: Added=WSM, Removed=CE
+  Holding Period End Date: 2025-03-26
+    Error fetching WSM: can't start new thread
+  ✗ S1: Insufficient data for WSM
+    Warning: No data found for CE
+  ✗ S2: Insufficient data for WSM/CE
+
+218/223: 2025-03-07: Added=TKO, Removed=TFX
+  Holding Period End Date: 2025-03-26
+    Error fetching TKO: can't start new thread
+  ✗ S1: Insufficient data for TKO
+    YFinance output for TFX: 1 Failed download:
+['TRGP']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for TFX
+  ✗ S2: Insufficient data for TKO/TFX
+
+219/223: 2025-03-07: Added=DASH, Removed=BWA
+  Holding Period End Date: 2025-03-26
+    Warning: No data found for DASH
+  ✗ S1: Insufficient data for DASH
+    Error fetching DASH: can't start new thread
+    Error fetching BWA: can't start new thread
+  ✗ S2: Insufficient data for DASH/BWA
+
+220/223: 2025-05-12: Added=COIN, Removed=DFS
+  Holding Period End Date: 2025-05-30
+    Warning: No data found for COIN
+  ✗ S1: Insufficient data for COIN
+    Error fetching COIN: can't start new thread
+    YFinance output for DFS: 2 Failed downloads:
+['PODD', 'BG']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+  ✗ S2: Insufficient data for COIN/DFS
+
+221/223: 2025-07-02: Added=DDOG, Removed=JNPR
+  Holding Period End Date: 2025-07-22
+    Warning: No data found for DDOG
+  ✗ S1: Insufficient data for DDOG
+    Error fetching DDOG: can't start new thread
+    Error fetching JNPR: can't start new thread
+  ✗ S2: Insufficient data for DDOG/JNPR
+
+222/223: 2025-07-14: Added=TTD, Removed=ANSS
+  Holding Period End Date: 2025-07-31
+    Warning: No data found for TTD
+  ✗ S1: Insufficient data for TTD
+    Warning: No data found for TTD
+    YFinance output for ANSS: 1 Failed download:
+['KVUE']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for ANSS
+  ✗ S2: Insufficient data for TTD/ANSS
+
+223/223: 2025-07-18: Added=XYZ, Removed=HES
+  Holding Period End Date: 2025-08-06
+    YFinance output for XYZ: 2 Failed downloads:
+['SIVB']: YFTzMissingError('possibly delisted; no timezone found')
+['ACGL']: DNSError('Failed to perform, curl: (6) getaddrinfo() thread failed to start. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+    Warning: No data found for XYZ
+  ✗ S1: Insufficient data for XYZ
+    Warning: No data found for XYZ
+    Error fetching HES: can't start new thread
+  ✗ S2: Insufficient data for XYZ/HES
+
+============================================================
+FINAL RESULTS
+Strategy 1: 75 successful trades, Final: $1,311,044 (31.10%)
+Strategy 2: 51 successful trades, Final: $1,620,197 (62.02%)
+Completed: 2025-08-31 17:22:40
